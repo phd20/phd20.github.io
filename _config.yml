@@ -14,11 +14,13 @@ author: Kirk Wiebe
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Blog: "https://phd20.medium.com"
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+  Prime Setting: "https://www.notion.so/phd20/Prime-Codex-0d34ffd8506c4f8e9038c2401e04e65d"
+  ❤ Support: "https://patreon.com/phd20"
 
 # --- Logo --- #
 
@@ -77,7 +79,8 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "PhD20.com"
+url-pretty: "❤ Support"
+url-canonical: https://patreon.com/phd20
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
