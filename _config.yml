@@ -19,9 +19,10 @@ navbar-links:
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Prime Setting: "https://www.notion.so/phd20/Prime-Codex-0d34ffd8506c4f8e9038c2401e04e65d"
+#  Prime Setting: "https://www.notion.so/phd20/Prime-Codex-0d34ffd8506c4f8e9038c2401e04e65d"
   Campaigns:
      - Dawn of Truth: "/dawn-of-truth/"
+     - Quest for Starfire: "https://quest-for-starfire.obsidianportal.com"
   ❤ Support: "https://patreon.com/phd20"
 
 # --- Logo --- #
