@@ -16,7 +16,9 @@ author: Kirk Wiebe
 navbar-links:
   Blog: "https://phd20.medium.com"
   About Me: "aboutme"
-  Portfolio: "https://inkarnate.com/p/WEeZJW--kirk-wiebe/"
+  Portfolio:
+     - Maps: "https://www.deviantart.com/phd20"
+     - Products: "https://www.dmsguild.com/browse.php?author=Kirk%20Wiebe"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
