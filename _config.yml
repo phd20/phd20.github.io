@@ -26,7 +26,6 @@ navbar-links:
   Campaigns:
      - Dawn of Truth: "https://www.worldanvil.com/w/prime-phd20"
      - Quest for Starfire: "https://quest-for-starfire.obsidianportal.com"
-  ❤ Support: "https://patreon.com/phd20"
 
 # --- Logo --- #
 
@@ -50,7 +49,7 @@ social-network-links:
   email: "dmprofessor227@gmail.com"
   github: phd20
   twitter: phd20_
-  patreon: phd20
+#  patreon: phd20
   youtube: c/phdnd
   instagram: phd20_kirk
 # facebook: deanattali
@@ -85,8 +84,8 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "❤ Support"
-url-canonical: https://patreon.com/phd20
+# url-pretty: "❤ Support"
+# url-canonical: https://patreon.com/phd20
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
