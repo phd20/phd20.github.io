@@ -7,6 +7,7 @@ share-description: "Terms of Use and License"
 ---
 
 You may use the images for a one time, first edition use for either print or web, along with advertising. This use may be for commercial or editorial purposes; as part of a publication that constitutes a larger body of work not limited to the images alone. This would include a book, PDF, or other publication also containing written content. Multiple artworks for a single use, as described previously, are also available (contact the artist for rates).
+
 You may reduce the images included. You may reduce a colour image to greyscale for the purpose of printing in that colour scheme. You may crop the images, however if you crop out the artist's signature or identifying mark then you must include the following statement next to the image: **© Kirk Wiebe**
 You may not colour, modify, adapt, translate, reverse engineer, decompile, or disassemble the images.
 You may not use the images as the basis for any individual or collection of physical or digital merchandise or promotional items, which you offer for sale, such as but not limited to t-shirt, digital or physical greeting cards, mugs, posters, prints, and so on.
