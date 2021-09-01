@@ -18,7 +18,7 @@ You cannot resell these images or redistribute them in any way that competes wit
 
 **Some artwork © (2021) Kirk Wiebe, used with permission. All rights reserved.**
 
-Kirk Wiebe retains the right to sell the use of this image. Except for your right to use the images in this collection granted by this licence, all other rights, title, and interest in the images and related trademarks and trade names are owned and retained by Kirk Wiebe. You agree to establish reasonable procedures regulating access to and use of the images, and use of the related trademarks and trade names in accordance with the laws of the United States, and this agreement.
+Kirk Wiebe retains the right to sell the use of this image. Except for your right to use the images in this collection granted by this license, all other rights, title, and interest in the images and related trademarks and trade names are owned and retained by Kirk Wiebe. You agree to establish reasonable procedures regulating access to and use of the images, and use of the related trademarks and trade names in accordance with the laws of the United States, and this agreement.
 
 This agreement will immediately and automatically terminate without notice if you fail to comply with any term or condition of this Agreement. If this Agreement is terminated, you agree to destroy all copies of the images and documentation in your possession, including any product or publication within which you have employed the images.
 
