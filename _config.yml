@@ -17,8 +17,9 @@ navbar-links:
   Blog: "https://phd20.medium.com"
   About Me: "aboutme"
   Portfolio:
-     - Maps: "https://www.deviantart.com/phd20"
-     - Products: "https://www.dmsguild.com/browse.php?author=Kirk%20Wiebe"
+     - Shop: "https://ko-fi.com/phd20/shop"
+     - DM's Guild: "https://bit.ly/phd20-guild"
+     - Commissions: "http://ko-fi.com/phd20/commissions"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
