@@ -54,6 +54,7 @@ social-network-links:
   youtube: c/phdnd
   instagram: phd20_kirk
 # facebook: deanattali
+  medium: phd20
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -97,6 +98,9 @@ feed_show_excerpt: true
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
 
+# Add a search button to the navbar
+post_search: true
+
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
@@ -139,6 +143,9 @@ site-css: "/assets/css/custom-styles.css"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: ""
+
+# Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
+#cloudflare_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
