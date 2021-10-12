@@ -4,8 +4,6 @@ layout: post
 subtitle: Creating Interesting NPCs
 thumbnail-img: /assets/img/triorb.png
 ---
-# Triad NPCs
-
 Creating interesting NPCs is challenging for new Dungeon Masters. But it doesn't have to be. Let's take a look at three methods for creating interesting NPCs with ease.
 
 ## Character Archetypes
