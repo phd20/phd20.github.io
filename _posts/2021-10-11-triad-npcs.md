@@ -20,7 +20,7 @@ To make your NPC more interesting, add another archetype. Choose **two** interes
 
 I need a tavern keeper NPC. I'll use Oprah and Ash Ketchum as inspiration. For Oprah, let's stick with the "You get a car! And you get a car! Everyone gets a car!" meme thing. For Ash, let's have the bartender be collecting rare ales. And he's really annoying about it.
 
-Javed Highburrow runs a respected establishment near the city gates. Everyone who is anyone drinks here. He's been known to buy drinks for everyone, frantically waving his hands and shouting, "You get a drink. And you get a drink! Everyone gets a drink!" But few can stand a conversation with Javed. He's obsessed with collecting all 150 rare ales from the region and he won't shut up about becoming "the very best" ale master.
+_Javed Highburrow runs a respected establishment near the city gates. Everyone who is anyone drinks here. He's been known to buy drinks for everyone, frantically waving his hands and shouting, "You get a drink. And you get a drink! Everyone gets a drink!" But few can stand a conversation with Javed. He's obsessed with collecting all 150 rare ales from the region and he won't shut up about becoming "the very best" ale master._
 
 ![Goten and Trunks doing the fusion dance from Dragonball Z.](https://c.tenor.com/1wJU51jgwSQAAAAC/dbz-dragonball.gif)
 
@@ -39,7 +39,7 @@ Let's look at a few examples.
 **Kevin Corcoran**. Tough-guy detective from _Copper_.
 **Tyrion Lannister**. Witty dwarf from _Game of Thrones_.
 
-A dwarf detective with mouse-like features. He’s witty and violent. Roots out corruption with a magic lightning dagger.
+_A dwarf detective with mouse-like features. He’s witty and violent. Roots out corruption with a magic lightning dagger._
 
 ### NPC 2
 
@@ -47,7 +47,7 @@ A dwarf detective with mouse-like features. He’s witty and violent. Roots out 
 **Stanley Hudson**. Lazy office worker that does crossword puzzles from _The Office_.
 **Leslie Knope**. High-energy, intelligent city councilwoman from _Parks and Recreation_.
 
-A veteran of the city's highest council. She's the most intelligent member but lazy beyond belief. Drinking and crossword puzzles are more appealing than her job and she won't shut up about all the monsters she's killed.
+_A veteran of the city's highest council. She's the most intelligent member but lazy beyond belief. Drinking and crossword puzzles are more appealing than her job and she won't shut up about all the monsters she's killed._
 
 That's it. Combine character archetypes (and real people) to make quick and interesting NPCs for your D&D and TRPG games. I've found the sweet spot to be three characters. Let me know how you create interesting NPCs over on Twitter!
 
