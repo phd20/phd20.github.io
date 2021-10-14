@@ -3,6 +3,7 @@ published: true
 layout: post
 subtitle: D&D Like No Other
 thumbnail-img: /assets/img/dungeon-gate-5.png
+title: Midwest D&D Raid
 ---
 In October of 2019, I participated in the most epic D&D game ever. A luxury loft in a historical part of town. Tons of food and drinks. More than a dozen players. Two Dungeon Masters. One epic raid.
 
