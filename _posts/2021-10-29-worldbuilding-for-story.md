@@ -7,10 +7,9 @@ title: Worldbuilding for the Story
 tags:
   - worldbuilding
 ---
+Worldbuilding is a wonderful creative outlet. We build worlds to express ourselves. But not that alone. We could express ourselves through any other medium. Why choose worlds? Because we want a place to tell a story. Your worlds should serve your stories. And your stories should serve your players.
 
 ![Chihiro by Anato Finnstark]({{site.baseurl}}/assets/img/chihiro.jpg)
-
-Worldbuilding is a wonderful creative outlet. We build worlds to express ourselves. But not that alone. We could express ourselves through any other medium. Why choose worlds? Because we want a place to tell a story. Your worlds should serve your stories. And your stories should serve your players.
 
 ## Worldbuilding as a Hobby
 
