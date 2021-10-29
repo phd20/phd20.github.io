@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-subtitle: Creating Interesting NPCs
+subtitle: null
 thumbnail-img: /assets/img/chihiro.jpg
 title: Worldbuilding for the Story
 tags:
