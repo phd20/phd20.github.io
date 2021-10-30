@@ -3,6 +3,10 @@ published: true
 layout: post
 subtitle: Creating Interesting NPCs
 thumbnail-img: /assets/img/triorb.png
+title: Triad NPCs
+tags:
+  - npc
+  - prep
 ---
 Creating interesting NPCs is challenging for new Dungeon Masters. But it doesn't have to be. Let's take a look at three methods for creating interesting NPCs with ease.
 
@@ -50,6 +54,3 @@ _A dwarf detective with mouse-like features. He’s witty and violent. Roots out
 _A veteran of the city's highest council. She's the most intelligent member but lazy beyond belief. Drinking and crossword puzzles are more appealing than her job and she won't shut up about all the monsters she's killed._
 
 That's it. Combine character archetypes (and real people) to make quick and interesting NPCs for your D&D and TRPG games. I've found the sweet spot to be three characters. Let me know how you create interesting NPCs over on Twitter!
-
-
-
