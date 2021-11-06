@@ -8,7 +8,7 @@ tags:
 title: Flaws in Your D&D Game
 ---
 
-Flaws and failure provide unparalleled opportunities for memorable moments in D&D. In this article, we'll focus on flaws. We'll look at why players and DM's underutilize them and how to fix that.
+Flaws and failure provide unparalleled opportunities for memorable moments in D&D. In this article, we'll focus on flaws. We'll look at why players and DMs underutilize them and how to fix that.
 
 What are flaws? According to the *Basic Rules*: "your character’s flaw represents some vice, compulsion, fear, or weakness—in particular, anything that someone else could exploit to bring you to ruin or cause you to act against your best interests." Most D&D 5E characters have 1-2 flaws and these are often picked from a list associated with the character's background. In my experience, flaws are rarely used and often forgotten. I'll be honest, as a player, I've even forgotten my characters' flaws before. As a Dungeon Master, I have a hard time keeping track of all the characters' flaws. And an even harder time using for them.
 
