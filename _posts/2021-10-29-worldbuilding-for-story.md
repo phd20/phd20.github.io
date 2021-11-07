@@ -6,6 +6,7 @@ thumbnail-img: /assets/img/chihiro.jpg
 title: Worldbuilding for the Story
 tags:
   - worldbuilding
+after-content: footer-subscribe.html
 ---
 Worldbuilding is a wonderful creative outlet. We build worlds to express ourselves. But not that alone. We could express ourselves through any other medium. Why choose worlds? Because we want a place to tell a story. Your worlds should serve your stories. And your stories should serve your players.
 
