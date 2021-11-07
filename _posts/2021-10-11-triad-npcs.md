@@ -7,6 +7,7 @@ title: Triad NPCs
 tags:
   - npc
   - prep
+after-content: footer-subscribe.html
 ---
 Creating interesting NPCs is challenging for new Dungeon Masters. But it doesn't have to be. Let's take a look at three methods for creating interesting NPCs with ease.
 
