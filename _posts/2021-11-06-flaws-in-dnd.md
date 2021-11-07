@@ -6,6 +6,7 @@ thumbnail-img: /assets/img/user-manual.jpg
 tags:
   - dungeon mastering
 title: Flaws in Your D&D Game
+after-content: footer-subscribe.html
 ---
 
 Flaws and failure provide unparalleled opportunities for memorable moments in D&D. In this article, we'll focus on flaws. We'll look at why players and DMs underutilize them and how to fix that.
