@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: 'Dungeons, Dragons, & Downtime'
 subtitle: Make the Most of Downtime
