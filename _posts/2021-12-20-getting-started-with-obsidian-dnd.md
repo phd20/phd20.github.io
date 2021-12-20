@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 After years of searching, I've found my favorite way to manage my notes and worldbuilding for *Dungeons & Dragons* campaigns. It's called Obsidian.
 
@@ -132,5 +132,4 @@ You'll notice that many of these are developed and maintained by Jeremy Valentin
 
 ## Summary
 
-I've only scratched the surface on what this powerful app can do. And more plugins and features are coming out weekly. Dive in. Try some stuff. I've found this to be a single app that can manage every single aspect of my game mastering life. And I love it. 
-
+I've only scratched the surface on what this powerful app can do. And more plugins and features are coming out weekly. Dive in. Try some stuff. I've found this to be a single app that can manage every single aspect of my game mastering life. And I love it.
