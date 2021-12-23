@@ -8,9 +8,11 @@ tags:
 after-content: footer-subscribe.html
 ---
 
+You know by now that I love [using Obsidian for Dungeons & Dragons]({{site.baseurl}}/2021-12-20-getting-started-with-obsidian-dnd). One of the biggest reasons is how easily it enables me to use my PDF supplements. If you're anything like me, you've got dozens if not hundreds (or thousands) of PDFs from the DM's Guild, DriveThruRPG, Kickstarter, etc. While that's loads of great content, I struggled to use much of it.
+
 ![Obsidian]({{site.baseurl}}/assets/img/obsidian-banner.png)
 
-You know by now that I love [using Obsidian for Dungeons & Dragons]({{site.baseurl}}/2021-12-20-getting-started-with-obsidian-dnd). One of the biggest reasons is how easily it enables me to use my PDF supplements. If you're anything like me, you've got dozens if not hundreds (or thousands) of PDFs from the DM's Guild, DriveThruRPG, Kickstarter, etc. While that's loads of great content, I struggled to use much of it. I'd have to copy and paste important bits or screenshot them. Sometimes, I'd have to rewrite them altogether in a more useful format. After all, I don't want to scroll through a hundred pages looking for the table I need over and over again. Even bookmarking became *another* thing to manage.
+I'd have to copy and paste important bits or screenshot them. Sometimes, I'd have to rewrite them altogether in a more useful format. After all, I don't want to scroll through a hundred pages looking for the table I need over and over again. Even bookmarking became *another* thing to manage.
 
 ## View PDFs
 
