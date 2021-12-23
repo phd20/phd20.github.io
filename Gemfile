@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 
 gem "jekyll-redirect-from"
+gem 'jekyll-admin', group: :jekyll_plugins
 
 gemspec
 
