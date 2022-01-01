@@ -14,7 +14,7 @@ author: Kirk Wiebe
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Subscribe: "http://eepurl.com/hL3WkP"
+  Subscribe: "subscribe"
   About Me: "aboutme"
   Portfolio:
      - Shop: "https://ko-fi.com/phd20/shop"
