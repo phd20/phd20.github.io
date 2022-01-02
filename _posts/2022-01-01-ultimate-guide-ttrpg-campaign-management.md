@@ -283,3 +283,7 @@ I don't find the following as powerful or useful as the two I've reviewed above 
 - Airtable
 - Microsoft OneNote
 - Trello
+
+---
+
+What tools do you find useful or how are you using something mentioned in this article? I want to know so hit me up on Twitter!
