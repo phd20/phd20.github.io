@@ -17,17 +17,12 @@ navbar-links:
   Subscribe: "subscribe"
   About Me: "aboutme"
   Portfolio:
-     - Shop: "https://ko-fi.com/phd20/shop"
+     - Maps: "/maps"
+     - Shop: "/shop"
      - DM's Guild: "https://bit.ly/phd20-guild"
      - Commissions: "http://ko-fi.com/phd20/commissions"
-  Play: "https://startplaying.games/gm/phd20"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Prime Setting: "https://www.notion.so/phd20/Prime-Codex-0d34ffd8506c4f8e9038c2401e04e65d"
-  Campaigns:
-     - Dawn of Truth: "prime-codex"
-     - Quest for Starfire: "https://quest-for-starfire.obsidianportal.com"
+  Play:
+     - Join A Game: "https://startplaying.games/gm/phd20"
 
 # --- Logo --- #
 
@@ -116,8 +111,8 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#AB7CE0"
 hover-col: "#8D59D7"
-footer-col: "#f8f8ff"
-footer-text-col: "#404040"
+footer-col: "#252628"
+footer-text-col: "#f8f8ff"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
