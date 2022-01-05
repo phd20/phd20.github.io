@@ -17,10 +17,10 @@ navbar-links:
   Subscribe: "subscribe"
   About Me: "aboutme"
   Portfolio:
-     - Maps: "/maps"
-     - Shop: "/shop"
+     - Maps: "maps"
+     - Shop: "shop"
      - DM's Guild: "https://bit.ly/phd20-guild"
-     - Commissions: "http://ko-fi.com/phd20/commissions"
+     - Commissions: "/commissions"
   Play:
      - Join A Game: "https://startplaying.games/gm/phd20"
 
