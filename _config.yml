@@ -15,8 +15,8 @@ author: Kirk Wiebe
 
 navbar-links:
   Subscribe: "subscribe"
-  About Me: "aboutme"
-  Portfolio:
+  About: "aboutme"
+  Resources:
      - Maps: "maps"
      - Shop: "shop"
      - DM's Guild: "https://bit.ly/phd20-guild"
