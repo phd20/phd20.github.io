@@ -15,14 +15,9 @@ author: Kirk Wiebe
 
 navbar-links:
   Subscribe: "subscribe"
+  Resources: "resources"
   About: "aboutme"
-  Resources:
-     - Maps: "maps"
-     - Shop: "shop"
-     - DM's Guild: "https://bit.ly/phd20-guild"
-     - Commissions: "/commissions"
-  Play:
-     - Join A Game: "https://startplaying.games/gm/phd20"
+  Shop: "shop"
 
 # --- Logo --- #
 
