@@ -1,0 +1,7 @@
+input#mc-embedded-subscribe.button {
+    background-color: #8D59D7;
+}
+
+input#mc-embedded-subscribe.button:hover {
+    background-color: #AB7CE0;
+}

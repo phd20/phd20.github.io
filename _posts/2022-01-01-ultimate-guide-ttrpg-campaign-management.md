@@ -54,7 +54,7 @@ Do you need complete access to your notes with our without access to the interne
 ![World Anvil]({{site.baseurl}}/assets/img/world-anvil-banner.png)
 
 > "World Anvil is a  **set of worldbuilding tools** that helps you create, organize and store your world setting.
-> With **wiki-like articles**, **interactive maps**, historical **timelines**, an**RPG Campaign Manager** and a full **novel-writing software**, we have all the tools you’ll need to run your RPG Campaign or write your novel!"
+> With **wiki-like articles**, **interactive maps**, historical **timelines**, an **RPG Campaign Manager** and a full **novel-writing software**, we have all the tools you’ll need to run your RPG Campaign or write your novel!"
 
 World Anvil is a _gargantuan_ suite of tools for building worlds, managing RPG campaigns, and writing novels. Even better than their amazing product is the community around it. The passionate founders interact with the massive community through yearly contests, weekly streams, and a bustling Discord server. No other programs out there come with more features out of the box. I'd even argue that no other program offers as rich of a way to *present* your world to an audience.
 
