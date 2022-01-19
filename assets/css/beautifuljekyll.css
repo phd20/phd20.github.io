@@ -649,7 +649,12 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   padding: 6.25rem 0;
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
+  {% if site.page.home == true %}
+  color: #8D59D7;
+  text-shadow: 1px 1px 3px #737373;
+  {% endif %}
 }
+
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 3.125rem;
