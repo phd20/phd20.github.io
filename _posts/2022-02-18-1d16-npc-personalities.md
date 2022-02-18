@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: 1d16 Personalities for NPCs
 share-title: 1d16 Personalities for NPCs
