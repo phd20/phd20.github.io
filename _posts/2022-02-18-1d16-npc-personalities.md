@@ -21,6 +21,6 @@ We can use 16Personalities on the fly to create interesting NPCs. Bookmark the [
 ## Add Depth to Existing NPCs
 Looking to add more depth to an existing NPC? Look no further. We can drill into each of the 16 Personality Types as far as we like for more inspiration. From strengths & weaknesses to relationships to career paths and beyond—each personality type is loaded with details and examples to steal or inspire. And did I mention that each type lists examples of real and fictional people to fit the type? In case you were wondering, Yennefer of Vengerberg is an Architect—alongside Gandalf the Grey and Tywin Lannister.
 
-![Traveler looking at multiple paths in a confused manner]({{site.baseurl}}/assets/img/paths.svg)
+![Traveler looking at multiple paths in a confused manner.]({{site.baseurl}}/assets/img/paths.svg)
 
 There's not much more to say about this excellent resource but there's so much more we can do with it. Go find some NPC personalities today! 
