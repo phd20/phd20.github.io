@@ -5,6 +5,7 @@ title: Getting Started with Obsidian for D&D
 thumbnail-img: /assets/img/overview.png
 tags:
   - obsidian
+  - organization
 after-content: footer-subscribe.html
 ---
 After years of searching, I've found my favorite way to manage my notes and worldbuilding for *Dungeons & Dragons* campaigns. It's called Obsidian.

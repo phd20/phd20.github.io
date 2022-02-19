@@ -5,6 +5,7 @@ title: Using D&D PDFs in Obsidian
 thumbnail-img: /assets/img/obsidian-banner.png
 tags:
   - obsidian
+  - organization
 after-content: footer-subscribe.html
 ---
 
