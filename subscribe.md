@@ -1,12 +1,12 @@
 ---
-title: "Level up as a Dungeon Master."
+title: "Less Advice, More Ideas"
 subscribe: true
 css: "/assets/css/subscribe.css"
 ---
 
 Discover a new way of Dungeon Mastering. **Your way**. PhD20 provides articles, resources, and tools to help you discover and perfect **your** style of Dungeon Mastering. 
 
-**Subscribe** to PhD20 and get my 5E Narrative Wealth system for **free**. You'll receive email updates for new blog articles and product releases to help you build a better TTRPG experience and grow as a Dungeon Master. I will never sell your information and you can unsubscribe at any time.
+**Subscribe** to PhD20 and get my 5E Narrative Wealth system for **free**. You'll receive email updates for new blog articles and product releases to help you build a better TTRPG experience and grow as a Dungeon Master. *I will never sell your information and you can unsubscribe at any time.*
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
