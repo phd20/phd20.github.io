@@ -1,4 +1,14 @@
 .page-heading > h1 {
-  color: #FFF;
-  text-shadow: 2px 2px 4px #8D59D7;
+  color: #3C3E40;
+  text-shadow: 2px 2px 4px #737373;
+}
+
+.page-subheading {
+  color: #3C3E40;
+  text-shadow: 2px 2px 4px #737373;
+}
+
+hr {
+  color: #3C3E40;
+  text-shadow: 2px 2px 4px #737373;
 }
