@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: The 2 Programs I Use to Organize My D&D Lore
 share-title: The 2 Programs I Use to Organize My D&D Lore

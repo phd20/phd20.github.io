@@ -6,6 +6,7 @@ subtitle: Make the Most of Downtime
 thumbnail-img: /assets/img/dungeons-dragons-downtime.png
 tags:
   - dungeon mastering
+  - 5e
 after-content: footer-subscribe.html
 ---
 Downtime activities are a recurring theme in most D&D campaigns. Many 5E source books include rules for downtime activities. But how do you take those rules and run enjoyable downtime? Let’s find out.

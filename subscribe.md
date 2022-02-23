@@ -4,9 +4,11 @@ subscribe: true
 css: "/assets/css/subscribe.css"
 ---
 
-Discover a new way of Dungeon Mastering. **Your way**. PhD20 provides articles, resources, and tools to help you discover and perfect **your** style of Dungeon Mastering. 
+I won't to tell you how to run games. I focus on ideas. 
 
-**Subscribe** to PhD20 and get my 5E Narrative Wealth system for **free**. You'll receive email updates for new blog articles and product releases to help you build a better TTRPG experience and grow as a Dungeon Master. *I will never sell your information and you can unsubscribe at any time.*
+**Subscribe** to PhD20 for ideas and inspiration to take to your games and worlds. Subscribers get my 5E Narrative Wealth system for **free** and other exlcusives. You'll also receive email updates for new articles and product releases.
+
+---
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
@@ -41,3 +43,6 @@ Discover a new way of Dungeon Mastering. **Your way**. PhD20 provides articles, 
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
+
+--- 
+*I will **never** sell your information and you can unsubscribe at any time.*
