@@ -7,7 +7,7 @@ share-title: My D&D Adventure Made This Much Money
 share-description: "I've self-published products across various platforms for 5E. I've learned a lot and I want to share that."
 cover-img: /assets/img/treasure.jpg
 tags:
-- tag
+- general
 after-content: footer-subscribe.html
 ---
 
