@@ -6,11 +6,16 @@ share-title: "PhD20 Shop"
 share-description: "PhD20's Published Resources"
 ---
 
-## DM's Guild
+## Featured
 
-If you're looking for adventures and other resources, check out my work on the DM's Guild. Most of what you'll find is **Pay What You Want** so grab it for FREE!
+Get [Tower of the Barrow Witch](https://www.drivethrurpg.com/product/391576/Tower-of-the-Barrow-Witch) today!
+
+## DM's Guild + DriveThruRPG
+
+If you're looking for adventures and other resources, check out my work on the DM's Guild and DriveThruRPG. Most of what you'll find is **Pay What You Want** so grab it for FREE!
 
 - [PhD20 on the DM's Guild](https://bit.ly/phd20-guild)
+- [PhD20 on DriveThruRPG](https://www.drivethrurpg.com/browse/pub/8613/PhD20)
 
 ## Ko-Fi Shop
 
