@@ -15,7 +15,9 @@ author: Kirk Wiebe
 
 navbar-links:
   Subscribe: "subscribe"
-  Resources: "resources"
+  Prime Multiverse: 
+    - Visit: "https://www.worldanvil.com/w/prime"
+    - Support: "https://www.patreon.com/phd20"
   About: "aboutme"
   Shop: "shop"
 
