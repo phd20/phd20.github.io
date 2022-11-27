@@ -3,10 +3,10 @@ published: true
 layout: post
 title: Tools for Enhanced 5E Combat
 share-title: Tools for Enhanced 5E Combat
-share-description: "As a Dungeon Master, we strive for fun and exciting combat encounters. The mechanics of Dungeons & Dragons 5th Edition provide us with a nice toolset to help. But it isn’t perfect. Combat can drag, feeling like a chore. Or even worse, it can turn into a slugfest of nothing more than “I hit again” followed by the same old attack roll."
-cover-img: /assets/img/combat-minis.jpg
-thumbnail-img: /assets/img/combat-minis.jpg
-share-img: /assets/img/combat-minis.jpg
+share-description: "As a Dungeon Master, we strive for fun and exciting combat encounters. The mechanics of Dungeons & Dragons 5th Edition provide us with a nice toolset to help. But it isn’t perfect. Combat can drag, feeling like a chore."
+#cover-img: /assets/img/combat-minis.jpg
+#thumbnail-img: /assets/img/combat-minis.jpg
+#share-img: /assets/img/combat-minis.jpg
 tags:
 - 5e
 - combat

@@ -49,5 +49,3 @@ These are really basic examples of answering that question for a flaw. You can g
 ---
 
 Flaws provide unparalleled opportunities for memorable moments in D&D. Keep them top of mind by reviewing your character's or party's flaws. Ask players "does your flaw play into this situation?" Think of flaws as opportunities, not restrictions. Use them to unite the party. Ask yourself, "how can *this flaw* become the **one thing** that will save the party in this adventure?" 
-
-How do you use flaws? Let me know on [Twitter](https://twitter.com/PhD20_)!
