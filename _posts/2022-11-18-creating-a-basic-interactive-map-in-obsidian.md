@@ -46,7 +46,8 @@ The `id` needs to be unique (no other maps with the same one). The `image` is ju
 
 ## Optimize Your Map
 
-> ⚠️ Be sure to add the image bounds before adding markers as existing markers may not update afterward.
+{: .box-warning}
+**Warning:** Be sure to add the image bounds before adding markers as existing markers may not update afterward.
 
 Defining the bounds of your image will let Obsidian know *exactly* how big it is and allow you to measure distances on the map accurately. Here's what the code block looks like with bounds:
 

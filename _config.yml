@@ -29,7 +29,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: assets/img/PHD20_Logo_Color.png
 
 
 # --- Footer social media links --- #
@@ -39,7 +39,8 @@ round-avatar: true
 social-network-links:
   email: "kirk@phd20.com"
 #  github: phd20
-  twitter: phd20_
+# twitter: phd20_
+  mastodon: chirp.enworld.org/@phd20
 # patreon: phd20
   youtube: c/phdnd
 #  instagram: phd20_dnd

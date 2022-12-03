@@ -48,7 +48,8 @@ I've got a lot of ideas on how to extend this to sharing more content. Some of i
 
 ---
 
-> 💁 I am not associated with Obsidian or Discord. This is purely a passion project using the tools they make available.
+{: .box-note}
+**Note:** I am not associated with Obsidian or Discord. This is purely a passion project using the tools they make available.
 
 If you'd like to support this effort, consider subscribing below or buying me a coffee:
 

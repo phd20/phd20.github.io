@@ -52,7 +52,8 @@ main-vault
 
 *The gazetteer of my connected settings.*
 
-> ⚠️ My organizational strategies under the Atlas change more often than any other folder.
+{: .box-note}
+**Note:**  My organizational strategies under the Atlas change more often than any other folder.
 
 I start with *universal regions*. For my universe, those are **Prime** (the material plane and majority of the setting notes), **Feywild**, **Shadowfell**, **Astral Dominion**, and **Elemental Chaos**. Within **Prime**, I separate out *world regions*: **Dorgothian Belt**, **Nerathi Hold**, and **Xanthomir Dominion**. Each of these might contain multiple continents.
 
