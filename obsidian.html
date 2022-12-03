@@ -1,0 +1,30 @@
+---
+layout: page
+title: 'Obsidian'
+subtitle: 'A D&D campaign manager like no other'
+---
+
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+
+{%- capture site_tags -%}
+    {%- for tag in site.tags -%}
+        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+{%- endcapture -%}
+{%- assign tags_list = site_tags | split:',' | sort -%}
+
+<p>After years of searching, I’ve found my favorite way to manage my notes and worldbuilding for Dungeons & Dragons campaigns. It’s called Obsidian. <a href="{{site.baseurl}}/2021-12-20-getting-started-with-obsidian-dnd/">Get started</a> today or learn more by checking out the articles below.</p>
+
+<h2>Learn More</h2>
+<div id="full-tags-list">
+<div class="post-list">
+    {%- for post in site.tags['obsidian'] -%}
+        <div class="tag-entry">
+            <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
+            <div class="entry-date">
+                <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
+            </div>
+        </div>
+    {%- endfor -%}
+</div>
+</div>

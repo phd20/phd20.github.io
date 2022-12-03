@@ -3,10 +3,10 @@ published: true
 layout: post
 title: Tools for Enhanced 5E Combat
 share-title: Tools for Enhanced 5E Combat
-share-description: "As a Dungeon Master, we strive for fun and exciting combat encounters. The mechanics of Dungeons & Dragons 5th Edition provide us with a nice toolset to help. But it isn’t perfect. Combat can drag, feeling like a chore. Or even worse, it can turn into a slugfest of nothing more than “I hit again” followed by the same old attack roll."
-cover-img: /assets/img/combat-minis.jpg
-thumbnail-img: /assets/img/combat-minis.jpg
-share-img: /assets/img/combat-minis.jpg
+share-description: "As a Dungeon Master, we strive for fun and exciting combat encounters. The mechanics of Dungeons & Dragons 5th Edition provide us with a nice toolset to help. But it isn’t perfect. Combat can drag, feeling like a chore."
+#cover-img: /assets/img/combat-minis.jpg
+#thumbnail-img: /assets/img/combat-minis.jpg
+#share-img: /assets/img/combat-minis.jpg
 tags:
 - 5e
 - combat
@@ -48,6 +48,7 @@ Slugfests are the worst. A PC standing toe-to-toe with an enemy, the two just ta
 
 ![Miniatures set up on map]({{site.baseurl}}/assets/img/combat-minis-map.jpg)
 
-A warning on this tool. It directly violates a written rule in 5th Edition. When changing a rule like this, make sure everyone at the table is aware ahead of time and on board for the change. Additionally, if you’re already using advanced techniques to keep combat interesting, you can probably ignore this tool. It’s a great for initiating more interesting combat in your groups but my hope is that you wouldn’t need it in the end, given all of the other tools and options available to you.
+{: .box-warning}
+**Warning:** This rule directly violates a written rule in 5th Edition. When changing a rule like this, make sure everyone at the table is aware ahead of time and on board for the change. Additionally, if you’re already using advanced techniques to keep combat interesting, you can probably ignore this tool. It’s a great for initiating more interesting combat in your groups but my hope is that you wouldn’t need it in the end, given all of the other tools and options available to you.
 
 With these tools in hand, you can enhance your D&D 5th Edition combat. They’re battle-tested and they work. I’ve presented them in my preferred order so if you’re looking for only one or two, start at the top. Looking to take combat to the next level? Check out The Monsters Know What They’re Doing by Keith Ammann.

@@ -15,11 +15,8 @@ author: Kirk Wiebe
 
 navbar-links:
   Subscribe: "subscribe"
-  Prime Multiverse: 
-    - Visit: "https://www.worldanvil.com/w/prime"
-    - Support: "https://www.patreon.com/phd20"
-  About: "aboutme"
-  Shop: "shop"
+  Obsidian: "obsidian"
+  About: "about"
 
 # --- Logo --- #
 
@@ -32,7 +29,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: assets/img/PHD20_Logo_Color.png
 
 
 # --- Footer social media links --- #
@@ -40,11 +37,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "kirk@phd20.com"
-#  github: phd20
-  twitter: phd20_
-  patreon: phd20
+  email: "kirk@phd20.com"
+  mastodon: chirp.enworld.org/@phd20
+  discord: users/Kirk#5340
   youtube: c/phdnd
+  github: phd20
+# twitter: phd20_
+# patreon: phd20
 #  instagram: phd20_dnd
 # facebook: deanattali
 #  medium: phd20
@@ -64,7 +63,6 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
 
@@ -76,9 +74,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer

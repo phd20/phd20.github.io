@@ -2,7 +2,6 @@
 published: true
 layout: post
 subtitle: D&D Like No Other
-thumbnail-img: /assets/img/dungeon-gate-5.png
 title: Midwest D&D Raid
 after-content: footer-subscribe.html
 ---
