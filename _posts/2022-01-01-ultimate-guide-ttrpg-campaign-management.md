@@ -223,7 +223,7 @@ Obsidian is a **powerhouse** for organizing notes. If you forced me to pick one 
 
 #### Key Features
 
-If you're curious about an in-depth look at features for TTRPG campaigns, take a look at my [articles](https://phd20.com/tags/#obsidian) covering Obsidian. I'll just cover a few here.
+If you're curious about an in-depth look at features for TTRPG campaigns, take a look at my [articles]({{site.baseurl}}/tags/#obsidian) covering Obsidian. I'll just cover a few here.
 
 The most powerful "feature" is the **community plugins**. Any developer can create plugins to use within the app and there are already a dozen or so for TTRPGs. So this "feature" is really dozens of potential features, depending on which you choose.
 

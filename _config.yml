@@ -38,11 +38,12 @@ title-img: assets/img/PHD20_Logo_Color.png
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "kirk@phd20.com"
-#  github: phd20
-# twitter: phd20_
   mastodon: chirp.enworld.org/@phd20
-# patreon: phd20
+  discord: users/Kirk#5340
   youtube: c/phdnd
+  github: phd20
+# twitter: phd20_
+# patreon: phd20
 #  instagram: phd20_dnd
 # facebook: deanattali
 #  medium: phd20
@@ -62,7 +63,6 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
 
