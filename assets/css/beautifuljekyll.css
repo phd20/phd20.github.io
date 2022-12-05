@@ -1179,3 +1179,26 @@ pre {
   box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
   background-color: {{ site.link-col | default: "#FFFFFF" }};
 }
+
+.download-btn {
+  border-radius: 0.5rem;
+  padding: 0.75rem 1rem;
+  background: #AB7CE0;
+	color: white;
+	border: none;
+	cursor: pointer;
+	outline: inherit;
+  font-family: 'Open Sans';
+  font-weight: 600;
+  transition: all 0.2s ease-in-out;
+}
+
+.download-btn a {
+  color: white;
+  text-decoration: none;
+}
+
+.download-btn:hover {
+  color: white;
+  box-shadow: 0 5px 15px rgba(145, 92, 182, .4);
+}

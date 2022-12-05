@@ -9,6 +9,8 @@ tags:
   - game mastering
 after-content: footer-subscribe.html
 permalink: introducing-discord-share-for-obsidian
+gh-repo: phd20/obsidian-discord-share
+gh-badge: [star, watch, fork, follow]
 ---
 
 Have you ever wanted to share something from your Obsidian vault with your players? Are you already using Discord for chatting? Now you can. Introducing Discord Share: a plugin for sharing vault contents to Discord.

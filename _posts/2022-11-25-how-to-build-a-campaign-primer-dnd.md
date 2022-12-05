@@ -34,6 +34,10 @@ Your campaign primer is unique to you and your style. So rather than provide a t
 {: .box-warning}
 **Warning:** I recognize that some of the legacy content shared here does not reflect the values of PhD20 today. Any depictions of ethnic, racial, and gender prejudice were wrong then and are wrong today. This content is presented as it was originally created because to do otherwise would be the same as claiming these prejudices never existed. I've worked hard and will continue to work to make my products as welcoming and inclusive as possible.
 
-[CampaignBibleAer.pdf]({{site.baseurl}}/assets/pdf/CampaignBible.pdf)
+<button class="download-btn">
+  <a href="{{site.baseurl}}/assets/pdf/CampaignBible.pdf" download="AerCampaignBible.pdf">
+    <i class="fas fa-solid fa-download"></i> Download Example
+  </a>
+</button>
 
 *Inspired by Chris Perkins and his Valoreign campaign bible.*
