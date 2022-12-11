@@ -8,6 +8,7 @@ tags:
   - obsidian
   - organization
 after-content: footer-subscribe.html
+last-updated: 2022-12-11
 ---
 After years of searching, I've found my favorite way to manage my notes and worldbuilding for *Dungeons & Dragons* campaigns. It's called Obsidian.
 
@@ -108,7 +109,7 @@ Track initiative, HP, and AC for combat right inside Obsidian. Pair this with 5e
 
 ![Initiative Tracker]({{site.baseurl}}/assets/img/initiative_tracker.png)
 
-### 5e (TTRPG) Statblocks
+### TTRPG Statblocks
 
 Render 5e-style statblocks within Obsidian. Comes with built-in monsters from the SRD and allows for homebrew and custom imports from popular monster building sites.
 
@@ -126,18 +127,46 @@ Create immersive timelines that link directly to your notes!
 
 Here's a few other plugins that I use:
 
-- Admonition
-- AidenLx's Folder Note
-- Collapse All
-- Folder Note Core
+- Advanced Tables
+- Buttons
+- Custom Frames
+- Dice Roller
+- [Discord Share]({{site.baseurl}}/introducing-discord-share-for-obsidian)
+- Folder Note
 - Hot Reload (for development only)
 - Image Toolkit
 - Image Window
 - Obsidian42 - BRAT (allows for easy install of a beta plugin)
 - Pane Relief
+- Templater
+- Various Complements
 
 You'll notice that many of these are developed and maintained by Jeremy Valentine. Please [buy him a coffee](https://www.buymeacoffee.com/valentine195) if you enjoy his work.
 
 ## Summary
 
 I've only scratched the surface on what this powerful app can do. And more plugins and features are coming out weekly. Dive in. Try some stuff. I've found this to be a single app that can manage every single aspect of my game mastering life. And I love it.
+
+## More on Obsidian
+
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+
+{%- capture site_tags -%}
+    {%- for tag in site.tags -%}
+        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+{%- endcapture -%}
+{%- assign tags_list = site_tags | split:',' | sort -%}
+
+<div id="full-tags-list">
+<div class="post-list">
+    {%- for post in site.tags['obsidian'] -%}
+        <div class="tag-entry">
+            <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
+            <div class="entry-date">
+                <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
+            </div>
+        </div>
+    {%- endfor -%}
+</div>
+</div>
