@@ -12,6 +12,7 @@ tags:
 - combat
 - dungeon mastering
 after-content: footer-subscribe.html
+redirect_from: /posts/2020-01-02/enhance-5e-combat-tools
 ---
 
 As a Dungeon Master, we strive for fun and exciting combat encounters. The mechanics of Dungeons & Dragons 5th Edition provide us with a nice toolset to help. But it isn’t perfect. Combat can drag, feeling like a chore. Or even worse, it can turn into a slugfest of nothing more than “I hit again” followed by the same old attack roll.

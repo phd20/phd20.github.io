@@ -9,6 +9,7 @@ tags:
   - organization
 after-content: footer-subscribe.html
 last-updated: 2022-12-11
+redirect_from: /2021-12-20-getting-started-with-obsidian
 ---
 After years of searching, I've found my favorite way to manage my notes and worldbuilding for *Dungeons & Dragons* campaigns. It's called Obsidian.
 
