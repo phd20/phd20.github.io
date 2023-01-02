@@ -31,7 +31,7 @@ ext-css:
 permalink: ultimate-guide-ttrpg-campaign-managers
 publish: true
 status: Writing
-redirect_from: /2022-01-01-ultimate-guide-ttrpg-campaign-management
+redirect_from: /2022-01-01-ultimate-guide-ttrpg-campaign-management/
 ---
 
 I'm fascinated by the opportunities that technology unlocks for tabletop roleplaying game campaign management. Nearly a decade ago, I kickstarted one of the best choices out there. But by 2016, few options (if any) were keeping up with technology. I [ranted](https://youtu.be/ZNcQnjpLVuk) about it—[twice](https://youtu.be/maUxXZnyws4). Since those rants, this micro-industry has taken off. Now we have an overwhelming number of options. Some options are built for TTRPGs. Some are not. So where do we start? Let's dive into the **features**, **strengths**, and **weaknesses** of the *best* options available. 
