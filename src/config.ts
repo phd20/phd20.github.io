@@ -4,7 +4,7 @@
 export const SITE_TITLE = "PhD20";
 export const SITE_DESCRIPTION =
   "I create content to help you have more fun playing TTRPGs.";
-export const TWITTER_HANDLE = "@yourtwitterhandle";
+export const TWITTER_HANDLE = "@PhD20_";
 export const MY_NAME = "Kirk Wiebe";
 export const CURRENT_YEAR = "2023";
 
