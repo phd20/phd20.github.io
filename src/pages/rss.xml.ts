@@ -41,7 +41,11 @@ export const get = async () => {
     const pubDate = frontmatter.date;
     const description = frontmatter.description;
     const link = `${baseUrl}/blog/${slug}`;
-    const content = sanitizeHtml(Markdoc.renderers.html(postContent)); 
+    const content = sanitizeHtml(Markdoc.renderers.html(postContent), {
+     allowedTags: sanitizeHtml.defaults.allowedTags.concat([ 'img' ]),
+     allowedAttributes: {'img': ['src']},
+     allowedSchemes: [ 'data', 'http', 'https']
+}); 
 
     return {
       title,
