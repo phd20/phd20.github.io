@@ -46,6 +46,8 @@ export const get = async () => {
         allowedTags: sanitizeHtml.defaults.allowedTags.concat([
           'img',
           'pre',
+          'code',
+          'span',
           'h1',
           'h2',
           'h3',
