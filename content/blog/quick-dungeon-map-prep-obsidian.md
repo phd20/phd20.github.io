@@ -9,6 +9,8 @@ In this article, we'll look at how to quickly prep a published dungeon in Obsidi
 
 ![A screenshot of a dungeon map with various markers in ObsidianMD. One marker is showing a popup with a description of the room that marker is in.](/images/obsidian-dungeon-map.png)
 
+*The map and adventure seen in the screenshots of this article are from Trial of the Slime Lord by Jordan Rudd.*
+
 ## Set Up the Plugin
 If you haven't already, follow the [basic map](/blog/creating-a-basic-interactive-map-in-obsidian/) guide to install and enable the Leaflet plugin. You can skip the optimizations and the rest of that guide.
 
