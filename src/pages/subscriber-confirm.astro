@@ -1,0 +1,24 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import PageMeta from '../components/PageMeta.astro';
+import { SITE_TITLE } from '../config';
+import Heading from 'src/components/ui/Heading.astro';
+
+---
+
+<PageLayout>
+  <PageMeta title={`Welcome | ${SITE_TITLE}`} slot="meta" />
+  <section slot="main">
+    <Heading as="h2">Please confirm</Heading>
+    <p>
+        Thank you for subscribing! We take privacy seriously so please check your email for a link to confirm the subscription.
+    </p>
+    <p>
+        As a <strong>thank you</strong>, you'll also receive my <em>Adventure Design</em> one-page resource.
+    </p>
+    <p>
+        Game on.
+    </p>
+    
+  </section>
+</PageLayout>

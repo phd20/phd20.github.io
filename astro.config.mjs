@@ -32,5 +32,10 @@ export default defineConfig({
     port: SERVER_PORT
   },
   site: BASE_URL,
-  integrations: [sitemap()]
+  integrations: [sitemap({
+    filter: (page) =>
+      page !== 'https://phd20.com/subscriber-confirm' &&
+      page !== 'https://phd20.com/welcome' &&
+      page !== 'https://phd20.com/files/Adventure_Creation_Document.pdf'
+  })]
 });

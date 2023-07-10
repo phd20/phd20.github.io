@@ -1,0 +1,24 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import PageMeta from '../components/PageMeta.astro';
+import { SITE_TITLE } from '../config';
+import Heading from 'src/components/ui/Heading.astro';
+
+---
+
+<PageLayout>
+  <PageMeta title={`Welcome | ${SITE_TITLE}`} slot="meta" />
+  <section slot="main">
+    <Heading as="h2">🎉 Welcome to PhD20</Heading>
+    <p>
+        Your newsletter subscription is confirmed. Head on over to the <a href="/blog" target="_self">blog</a> for more resources and ideas.
+    </p>
+    <p>
+        Thanks again for your support!
+    </p>
+    <p>
+        Game on.
+    </p>
+    
+  </section>
+</PageLayout>
