@@ -55,7 +55,7 @@ export const get = async () => {
           'h5',
           'h6',
         ]),
-        allowedAttributes: { img: ['src'] },
+        allowedAttributes: { img: ['src', 'alt'] },
         allowedSchemes: ['data', 'http', 'https'],
         allowedIframeHostnames: ['www.youtube.com', 'www.twitter.com'],
       });
