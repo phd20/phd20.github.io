@@ -5,6 +5,7 @@ import PageLayout from "../layouts/PageLayout.astro";
 import PageMeta from "../components/PageMeta.astro";
 import ExternalLinkIcon from "../components/ui/icons/external-link.astro";
 import { SITE_TITLE } from "../config";
+import Subscribe from "src/components/Subscribe.astro";
 
 const posts = await readAll({
   directory: "blog",
@@ -23,6 +24,9 @@ const sortedPosts = posts
 <PageLayout>
   <PageMeta title={`Blog | ${SITE_TITLE}`} slot="meta" />
   <section slot="main">
+    <h3 id="mc_embed_signup">Get new articles sent to your inbox</h3>
+    <Subscribe />
+    <br />
     <ul>
       {
         sortedPosts.map((post) => {
