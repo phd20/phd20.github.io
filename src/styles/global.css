@@ -220,18 +220,18 @@ a.animated.active:after {
 	justify-content: center;
 }
 
-#mce-EMAIL {
+#bd-email {
 	border-radius: .25rem;
 	border: 0;
 	padding: 0.5rem;
 	background-color: var(--code-background);
 }
 
-#mce-EMAIL::placeholder {
+#bd-email::placeholder {
 	color: var(--code-text);
 }
 
-#mc-embedded-subscribe {
+#bd-subscribe {
 	margin-top: 0.5rem;
 	border-radius: .25rem;
 	border: 0;
@@ -239,7 +239,7 @@ a.animated.active:after {
 	background-color: var(--palette-primary);
 }
 
-#mc-embedded-subscribe:hover {
+#bd-subscribe:hover {
 	filter: brightness(.9);
 }
 
