@@ -5,6 +5,8 @@ date: 2023-07-09
 draft: false
 ---
 
+*Updated 2023-08-13*
+
 In this article, we'll look at how to quickly prep a published dungeon in Obsidian. By the end, you'll have a visual of your map along with notes for keyed locations. Let's roll.
 
 ![A screenshot of a dungeon map with various markers in ObsidianMD. One marker is showing a popup with a description of the room that marker is in.](/images/obsidian-dungeon-map.png)
@@ -32,6 +34,13 @@ Right-click on a marker and click `Edit Marker`. Edit the `Note to Open` to link
 ![A menu showing a file path with the .png extension added to the end](/images/obsidian-dungeon-png.png)
 
 Under `Edit Marker` > `Show Advanced Options`, make sure that `Display Tooltip` is set to `Hover`. This will let you see previews of each location by just hovering over the map marker.
+
+### Bonus: Link PDF Pages
+Take it a step further by linking directly to the PDFs (and specific pages!) right within your vault. For the `Note to Open` field, choose the PDF, add the file extension, and use the following syntax to link to a specific page: `#page=`.
+
+So if they keyed location on your map is described on page 19 of your adventure's PDF, your `Note to Open` would look like: `adventure.pdf#page=19`. 
+
+![A map with keyed locations. On hover, they show previews of specific PDF pages in my vault.](/images/leaflet-pdf-linking.gif)
 
 That's it! Now you've got a quick and dirty dungeon map with all of your notes tied to the keyed locations. 
 
