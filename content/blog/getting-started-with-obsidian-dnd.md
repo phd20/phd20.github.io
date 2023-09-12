@@ -104,7 +104,7 @@ What more to say? Roll some dice in Obsidian! This can also be used to randomly 
 
 ### Fantasy Calendar
 
-This is what originally hooked me on plugins. I've long loved using [Fantasy Calendar](fantasy calendar) to track the custom calendar for my campaigns. With this plugin, you can actually export your calendar from this site (or create your own) and manage it from within Obsidian.
+This is what originally hooked me on plugins. I've long loved using [Fantasy Calendar](https://app.fantasy-calendar.com) to track the custom calendar for my campaigns. With this plugin, you can actually export your calendar from this site (or create your own) and manage it from within Obsidian.
 
 ![Fantasy Calendar](/images/fantasy_calendar.png)
 
