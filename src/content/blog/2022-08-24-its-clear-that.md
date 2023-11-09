@@ -2,7 +2,7 @@
 published: true
 external: false
 date: 2022-08-24
-layout: post
+
 title: "It's Clear That..."
 share-description: "Do you ever have Dungeons & Dragons players that don't get it? You've laid out all the clues and answers but the players can't seem to pick them up? Luckily, there's an easy fix."
 tags:

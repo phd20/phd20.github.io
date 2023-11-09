@@ -2,7 +2,7 @@
 published: true
 external: false
 date: 2021-11-06
-layout: post
+
 subtitle: Make the Most of Flaws
 thumbnail-img: /assets/img/user-manual.jpg
 tags:

@@ -2,7 +2,7 @@
 published: true
 external: false
 date: 2022-10-23
-layout: post
+
 title: "3 Reasons to Avoid Player Secrets in D&D"
 share-description: "Over the last 5 years, I've run a Dungeons & Dragons campaign that relied heavily on player secrets. I saw few upsides to this approach and plenty of downsides. Here are the top 3 reasons to avoid player secrets in your D&D games."
 tags:

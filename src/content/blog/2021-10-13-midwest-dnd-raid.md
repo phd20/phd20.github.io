@@ -2,7 +2,7 @@
 published: true
 external: false
 date: 2021-10-13
-layout: post
+
 subtitle: D&D Like No Other
 title: Midwest D&D Raid
 tags:

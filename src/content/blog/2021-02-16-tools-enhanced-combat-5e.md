@@ -2,7 +2,7 @@
 published: true
 external: false
 date: 2021-02-16
-layout: post
+
 title: Tools for Enhanced 5E Combat
 share-title: Tools for Enhanced 5E Combat
 share-description: "As a Dungeon Master, we strive for fun and exciting combat encounters. The mechanics of Dungeons & Dragons 5th Edition provide us with a nice toolset to help. But it isn’t perfect. Combat can drag, feeling like a chore."

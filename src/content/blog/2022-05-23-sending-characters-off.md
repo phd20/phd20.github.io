@@ -2,7 +2,7 @@
 published: true
 external: false
 date: 2022-05-23
-layout: post
+
 title: Satisfying Player Character Endings
 share-description: "When I finish a long-running D&D campaign, I always ensure the last session includes three key things for each character."
 tags:

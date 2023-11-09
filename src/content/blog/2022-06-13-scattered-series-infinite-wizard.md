@@ -2,7 +2,7 @@
 published: true
 external: false
 date: 2022-06-13
-layout: post
+
 title: "Scattered Series of the Infinite Wizard"
 subtitle: "A Fantastic Location for Your Game"
 share-description: "A collection of twelve magical locations."

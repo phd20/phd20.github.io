@@ -2,7 +2,7 @@
 published: true
 external: false
 date: 2022-09-14
-layout: post
+
 title: "Summoning Spells Suck in 5E"
 share-description: "If you're a Dungeon Master, you've probably experienced the effect that summoning spells have on combat. Spoiler: it's not a good one. We know they suck because the rules have tried to patch them at least twice. But has it worked?"
 tags:

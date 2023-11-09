@@ -19,7 +19,7 @@ nav-short: false
 gh-repo: 
 gh-badge:
 last-updated: 
-layout: post 
+ 
 footer-extra: 
 before-content:
 after-content: footer-subscribe.html 

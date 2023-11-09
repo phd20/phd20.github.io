@@ -3,7 +3,7 @@ published: true
 title: Creating a Basic Interactive Map in Obsidian
 external: false
 date: 2022-11-18
-layout: post
+
 after-content: footer-subscribe.html
 permalink: creating-a-basic-interactive-map-in-obsidian
 tags:

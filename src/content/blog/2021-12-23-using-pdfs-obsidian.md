@@ -2,7 +2,7 @@
 published: true
 external: false
 date: 2021-12-23
-layout: post
+
 title: Using D&D PDFs in Obsidian
 thumbnail-img: /assets/img/obsidian-banner.png
 tags:

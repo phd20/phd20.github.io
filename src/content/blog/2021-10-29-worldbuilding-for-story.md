@@ -2,7 +2,7 @@
 published: true
 external: false
 date: 2021-10-29
-layout: post
+
 subtitle: Your World Serves the Story
 thumbnail-img: /assets/img/chihiro.jpg
 title: Worldbuilding for the Story

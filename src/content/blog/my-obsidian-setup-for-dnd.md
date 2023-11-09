@@ -3,7 +3,7 @@ published: true
 external: false
 draft: false
 date: 2022-10-30
-layout: post
+
 title: "My Obsidian Setup for D&D"
 share-description: "This is how I organize my Dungeons & Dragons world and campaigns within Obsidian."
 tags:

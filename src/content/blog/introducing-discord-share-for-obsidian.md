@@ -2,7 +2,7 @@
 published: true
 external: false
 date: 2022-11-07
-layout: post
+
 title: "Introducing Discord Share for Obsidian"
 share-description: "Have you ever wanted to share something from your Obsidian vault with your players? Are you already using Discord for chatting? Now you can. Introducing Discord Share: a plugin for sharing vault contents to Discord."
 thumbnail-img: assets/img/obsidian-discord-share.png

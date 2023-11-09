@@ -4,9 +4,8 @@ import PageLayout from "../layouts/PageLayout.astro";
 import Intro from "../components/Intro.astro";
 import Subscribe from "../components/Subscribe.astro"
 import { SITE_TITLE } from "../config";
-import Obsidian from "src/components/Obsidian.astro";
-import Worldbuilding from "src/components/Worldbuilding.astro";
 import Other from "src/components/Other.astro";
+import TaggedBlogPosts from "src/components/TaggedBlogPosts.astro";
 ---
 
 <PageLayout>
@@ -16,8 +15,8 @@ import Other from "src/components/Other.astro";
     <hr />
     <br />
     <Subscribe />
-    <Obsidian />
-    <Worldbuilding />
+    <TaggedBlogPosts title="ObsidianMD for Dungeons & Dragons" tag="obsidian" />
+    <TaggedBlogPosts title="Worldbuilding for TTRPGs" tag="worldbuilding" />
     <Other />
   </Fragment>
 </PageLayout>
