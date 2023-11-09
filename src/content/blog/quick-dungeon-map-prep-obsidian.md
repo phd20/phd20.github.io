@@ -23,7 +23,19 @@ If you haven't already, follow the [basic map](/blog/creating-a-basic-interactiv
 ## Create the Map
 Add the image file of the map to your vault. Use [this code block](https://gist.github.com/phd20/f6ec5674b5442f0bb77de2d135043bb4) in a new note to create the map. Adjust the `id` and `image` parameters to reflect your map image. Tinker with any of the other parameters as you see fit.
 
-{% githubgist id="f6ec5674b5442f0bb77de2d135043bb4" /%}
+~~~
+```leaflet
+id: trial-slime-lord
+image: [[trialoftheslimelord_-_dm.png]]
+height: 900px
+width: 95%
+minZoom:5
+maxZoom: 10
+zoomDelta: .5
+defaultZoom: 7
+scale: 12
+```
+~~~
 
 ### Key the Map
 Right-click on the rendered map to add markers for each room or keyed location in your dungeon.

@@ -34,9 +34,9 @@ After adding the plugin, enable it. Get a Webhook URL from Discord. See [this gu
 
 See the [README](https://github.com/phd20/obsidian-discord-share#optional-settings) for more on the other settings.
 
-## Initial Release Features
+## Features
 
-{% tweet url="https://twitter.com/PhD20_/status/1589343378571137026" /%}
+[View the README](https://github.com/phd20/obsidian-discord-share#features)
 
 ### Share Attachment to Discord
 

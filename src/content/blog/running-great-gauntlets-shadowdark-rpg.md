@@ -24,7 +24,9 @@ You can generate four random level 0 characters with a single click using [Shado
 ## Luck
 Gauntlets are deadly. A little luck will go a long way. Use the system's rules for *Luck Tokens* or introduce [flex dice](https://youtu.be/vR0KnGeTLNM). Take it a step further and use a limited but shared pool that the entire party can tap into.
 
-{% youtube url="https://www.youtube.com/embed/vR0KnGeTLNM" label="Replace Feats & Skills with Flex Dice! (Ep. 342)" /%}
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vR0KnGeTLNM?si=tc-l0k9mxUVhrLhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Roll in the Open
 As the game recommends, roll in the open! It's more fun and less adversarial. The dice are the cruel gods and not the game master. 

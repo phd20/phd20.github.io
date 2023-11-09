@@ -38,7 +38,9 @@ Most characters choose the type of weapon they want *during* character creation.
 
 A great example of starting without equipment is the *Prisoners of Molach* encounter designed by Runehammer.
 
-{% youtube url="https://www.youtube.com/embed/AIFxPXlTzlQ?start=254" label="3 Encounters to Start YOUR Campaign! by Runehammer" /%}
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AIFxPXlTzlQ?si=k5T-48IUn0Z-Vclo&amp;start=255" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Get Rid of Equipment Packs
 Keeping track of an ever-growing inventory of obscure items is tough. But when you package those items into a "kit" or "equipment pack" as 5E does, it's even tougher to remember what you have at your disposal. Allow players to buy the specific items they want. But skip the convenient yet forgettable packs. 

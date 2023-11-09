@@ -13,9 +13,7 @@ permalink: its-clear-that
 
 Do you ever have players that don't get it? You've laid out all the clues and answers but the players can't seem to pick them up? Here's a secret: the problem isn't the players. The problem isn't you. It's the nature of tabletop roleplaying games like Dungeons & Dragons. But there's one trick that can solve this problem. And it's easy.
 
-When you describe a situation, you might have a vivid picture in your mind. You know the options available to the characters and you give hints to them in the world. But, as SlyFlourish once said, "Players understand half of what you're describing." And again, it's not anyone's fault.
-
-{% tweet url="https://twitter.com/SlyFlourish/status/1417563742909386756" /%}
+When you describe a situation, you might have a vivid picture in your mind. You know the options available to the characters and you give hints to them in the world. But, as SlyFlourish once said, "Players only understand about half of what we describe"[^1] And again, it's not anyone's fault.
 
 Everyone visualizes a situation their own way. And not every player picks up every detail you describe. Some miss the connections you expect them to make. Others make connections you never thought of. That's part of the beauty of this game. We all bring different imaginations to the table to create a story unlike any other.
 
@@ -38,3 +36,5 @@ One of the most powerful tools in your DM toolbox is the phrase "it's clear that
 ---
 
 This tool helps you maintain pace and get to the fun. Grab a Sharpie and write it on an index card. Keep it visible while DMing as a reminder of what you have at your disposal. Use it when it feels like players are struggling or getting stuck. 
+
+[^1]: https://slyflourish.com/top_advice.html
