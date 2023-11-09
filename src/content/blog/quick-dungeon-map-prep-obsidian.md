@@ -3,6 +3,10 @@ title: Quick Dungeon Map Prep in Obsidian
 external: false
 date: 2023-07-09
 draft: false
+tags:
+  - obsidian
+  - prep
+  - maps
 ---
 
 *Updated 2023-08-14*

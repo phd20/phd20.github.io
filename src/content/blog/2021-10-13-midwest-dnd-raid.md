@@ -5,6 +5,8 @@ date: 2021-10-13
 layout: post
 subtitle: D&D Like No Other
 title: Midwest D&D Raid
+tags:
+  - misc
 after-content: footer-subscribe.html
 ---
 In October of 2019, I participated in the most epic D&D game ever. A luxury loft in a historical part of town. Tons of food and drinks. More than a dozen players. Two Dungeon Masters. One epic raid.

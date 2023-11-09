@@ -3,6 +3,9 @@ title: Organizing Obsidian for D&D | The Problem With Plugins
 external: false
 date: 2023-06-25
 draft: false
+tags:
+  - obsidian
+  - organization
 ---
 
 Obsidian is awesome. But one core component of this series is future-proofing our [vault](/blog/organizing-obsidian-dnd-big-picture-vaults/). And that requires considering a future without Obsidian. Would your notes survive? Or would they be a useless mess? Our [principles](/blog/organizing-obsidian-dnd-principles/) form a great foundation but we need additional guardrails.

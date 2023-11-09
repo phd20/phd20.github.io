@@ -3,6 +3,9 @@ title: Organizing Obsidian for D&D | The Big Picture on Vaults
 external: false
 date: 2023-06-11
 draft: false
+tags:
+  - obsidian
+  - organization
 ---
 
 [Getting started](/blog/getting-started-with-obsidian-dnd/) with Obsidian for D&D is easy. Organizing rules, campaigns, and worlds is not. The possibilities are endless. Your needs might simplify or complicate this further. In this series, we'll break down what you need to think about and why. We'll look at strategies to help you get the most out of using Obsidian to organize your D&D life.

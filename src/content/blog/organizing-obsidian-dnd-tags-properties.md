@@ -4,9 +4,7 @@ external: false
 date: 2023-09-10
 draft: false
 tags:
-  - blog
-  - content
-  - rpg
+  - organization
   - obsidian
 ---
 Organizing Obsidian for D&D is a big topic. But understanding the [big picture](/blog/organizing-obsidian-dnd-big-picture-vaults) and adhering to a [few principles](/blog/organizing-obsidian-dnd-principles) can make it simple. Now we open the Pandora's Box of *properties*. What's a game master to do?

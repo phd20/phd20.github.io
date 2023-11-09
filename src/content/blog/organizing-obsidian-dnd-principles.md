@@ -3,6 +3,9 @@ title: Organizing Obsidian for D&D | 3 Principles
 external: false
 date: 2023-06-18
 draft: false
+tags:
+  - obsidian
+  - organization
 ---
 
 Once you've [started](/blog/getting-started-with-obsidian-dnd/) using Obsidian for D&D, one question looms large: *what* goes *where*? In truth, there's no right answer. And that's the beauty of using Obsidian to manage your campaigns and worlds. It's up to you.
