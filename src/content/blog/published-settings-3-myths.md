@@ -6,8 +6,8 @@ draft: false
 ogImageAbsoluteUrl: '/images/crown-oathbreaker.jpg'
 ogImageAltText: 'A tree with many eyes on it set against a fantasy landscape background'
 tags:
-  - blog
-  - content
+  - misc
+  - worldbuilding
 ---
 
 ![A tree with many eyes on it set against a fantasy landscape background](/images/crown-oathbreaker.jpg)

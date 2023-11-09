@@ -6,8 +6,6 @@ url: atomic-worldbuilding
 subtitle: 
 tags:
   - worldbuilding
-  - game mastering
-  - prep
 cover-img: 
 thumbnail-img:
 share-title: Atomic Worldbuilding

@@ -6,7 +6,8 @@ date: 2021-11-06
 subtitle: Make the Most of Flaws
 thumbnail-img: /assets/img/user-manual.jpg
 tags:
-  - dungeon mastering
+  - misc
+  - 5e
 title: Flaws in Your D&D Game
 after-content: footer-subscribe.html
 ---

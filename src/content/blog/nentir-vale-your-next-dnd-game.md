@@ -4,8 +4,7 @@ external: false
 date: 2023-10-21
 draft: false
 tags:
-  - blog
-  - content
+  - worldbuilding
 ---
 
 ![Map of the Nentir Vale](/images/nentir-vale-map.jpg)

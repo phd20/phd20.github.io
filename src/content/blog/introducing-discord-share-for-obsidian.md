@@ -8,7 +8,6 @@ share-description: "Have you ever wanted to share something from your Obsidian v
 thumbnail-img: assets/img/obsidian-discord-share.png
 tags:
   - obsidian
-  - game mastering
 after-content: footer-subscribe.html
 permalink: introducing-discord-share-for-obsidian
 gh-repo: phd20/obsidian-discord-share

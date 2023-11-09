@@ -7,7 +7,6 @@ title: 'Dungeons, Dragons, & Downtime'
 subtitle: Make the Most of Downtime
 thumbnail-img: /assets/img/dungeons-dragons-downtime.png
 tags:
-  - dungeon mastering
   - 5e
 after-content: footer-subscribe.html
 ---

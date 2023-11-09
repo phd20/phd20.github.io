@@ -9,6 +9,7 @@ permalink: creating-a-basic-interactive-map-in-obsidian
 tags:
   - obsidian
   - maps
+  - organization
 ---
 
 Powerful TTRPG campaign managers allow you to upload high-resolution maps, place markers, and link those markers to more information. Obsidian is no different. Let's look at how to set up an interactive map for Dungeons & Dragons using Obsidian.

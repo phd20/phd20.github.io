@@ -3,7 +3,9 @@ title: Make Equipment Interesting in D&D
 external: false
 date: 2022-12-22
 subtitle: 
-tags: []
+tags:
+- homebrew
+- 5e
 cover-img: "/assets/img/phb-equipment.png"
 thumbnail-img:
 share-title: Make Equipment Interesting in D&D

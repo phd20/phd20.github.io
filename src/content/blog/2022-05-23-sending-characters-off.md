@@ -6,8 +6,7 @@ date: 2022-05-23
 title: Satisfying Player Character Endings
 share-description: "When I finish a long-running D&D campaign, I always ensure the last session includes three key things for each character."
 tags:
-  - campaign
-  - game mastering
+  - misc
 after-content: footer-subscribe.html
 permalink: sending-characters-off
 ---
@@ -24,7 +23,7 @@ Characters (and the players behind them) have goals. By the end of the campaign,
 ## A Surprise
 The game is full of surprises and I love carrying that spirit into the finale. It's no fun if the characters got everything they wanted and expected. Throw in a surprise to keep things exciting—an old ally resurfaces, the character is asked to lead a nation, etc.
 
-## A choice
+## A Choice
 This is my favorite. Give each player character a choice to make during the session. The decision shouldn't influence the trajectory of the campaign since it's about to end. But it gives the player one last bit of agency and it can give you worldbuilding ammunition for future games. One last choice—become the archmage or hunt down the Prince of Frost, join this faction or disappear into the wilderness, etc. 
 
 ---

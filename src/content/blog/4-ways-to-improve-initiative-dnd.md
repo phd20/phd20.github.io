@@ -4,8 +4,9 @@ external: false
 date: 2023-11-11
 draft: true
 tags:
-  - blog
-  - content
+  - homebrew
+  - 5e
+  - combat
 ---
 
 ![Warrior with an axe standing on drawbridge above a group of soldiers looking up at him.](/images/crow_s_nest_by_maxprodanov_dc767gq.jpg)

@@ -4,8 +4,8 @@ external: false
 date: 2023-10-28
 draft: false
 tags:
-  - blog
-  - content
+  - misc
+  - maps
 ---
 Designing dungeons is one of the many fun jobs of a game master. But designing a dungeon from scratch can be daunting *and* time-consuming. In this article, we’ll start with a simple map and your only job is to make it better. By the end, you’ll have a nice little dungeon to toss into your game or show off on social media. 
 

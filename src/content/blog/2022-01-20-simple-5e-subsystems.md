@@ -9,7 +9,7 @@ share-description: "How do we embrace fun, new gaming opportunities in 5E withou
 cover-img: /assets/img/dnd-cover.jpg
 tags:
 - 5e
-- dungeon mastering
+- homebrew
 after-content: footer-subscribe.html
 ---
 How do we embrace fun, new gaming opportunities in 5E without overly complex sub-systems? By asking three questions.

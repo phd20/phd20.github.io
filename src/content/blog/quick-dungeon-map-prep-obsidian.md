@@ -5,7 +5,6 @@ date: 2023-07-09
 draft: false
 tags:
   - obsidian
-  - prep
   - maps
 ---
 

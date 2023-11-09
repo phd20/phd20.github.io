@@ -3,11 +3,10 @@ title: The Dark Contracts | A Level 1-2 Shadowdark RPG Adventure
 external: false
 date: 2023-07-22
 draft: false
-tags: [blog,content]
+tags: 
+- shadowdark
 ---
-*This adventure is part of the [Shadowdark Independent Game Jam](https://itch.io/jam/shadowdark-independent-game-jam) hosted by Baron de Ropp from the wonderful Dungeon Masterpiece YouTube channel. I'd encourage you to head over to the jam and vote. Grab yourself some wonderful free Shadowdark material while you're at it!*
-
-*Vote [here](https://itch.io/jam/shadowdark-independent-game-jam/entries)!*
+*This adventure was part of the [Shadowdark Independent Game Jam](https://itch.io/jam/shadowdark-independent-game-jam) hosted by Baron de Ropp from the wonderful Dungeon Masterpiece YouTube channel.*
 
 ![The Dark Contracts designed for use with Shadowdark RPG](/images/dark-contracts-blog.png)
 

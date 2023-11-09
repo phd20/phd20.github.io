@@ -6,11 +6,8 @@ date: 2022-08-29
 title: "Gotta Catch 'Em All: Magic Items"
 share-description: "I like to look to my favorite books, games, and shows to inspire my next creations in D&D. This is a powerful tool for a DM and an endless source of inspiration. When looking at Pokémon, the inspiration was obvious: magic items."
 tags:
-  - game mastering
+  - misc
   - 5e
-  - adventure
-  - campaign
-  - magic item
 after-content: footer-subscribe.html
 permalink: magic-items-gotta-catch-em-all
 ---

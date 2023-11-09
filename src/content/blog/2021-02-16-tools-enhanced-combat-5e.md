@@ -12,7 +12,7 @@ share-description: "As a Dungeon Master, we strive for fun and exciting combat e
 tags:
 - 5e
 - combat
-- dungeon mastering
+- homebrew
 after-content: footer-subscribe.html
 redirect_from: /posts/2020-01-02/enhance-5e-combat-tools
 ---

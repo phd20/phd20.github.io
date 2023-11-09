@@ -7,7 +7,7 @@ title: "Scattered Series of the Infinite Wizard"
 subtitle: "A Fantastic Location for Your Game"
 share-description: "A collection of twelve magical locations."
 tags:
-  - location
+  - misc
 after-content: footer-subscribe.html
 permalink: scattered-series-infinite-wizard
 ---

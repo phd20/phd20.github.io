@@ -3,7 +3,8 @@ title: Create Your Own Battle Board for D&D
 external: false
 date: 2023-07-15
 draft: false
-tags: [blog,content]
+tags:
+- misc
 ---
 
 Figuring out maps for in-person D&D is tough. Whether you use a whiteboard, printed maps, dungeon tiles, or terrain, consider adding a battle board. This is a fun, low-effort crafting experiment that gives you a dynamic artifact to bring to the table each week.

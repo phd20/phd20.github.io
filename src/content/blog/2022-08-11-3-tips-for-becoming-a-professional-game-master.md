@@ -6,8 +6,7 @@ date: 2022-08-11
 title: "3 Tips for Becoming a Professional Game Master"
 share-description: "Over the last decade, I've run hundreds of games of D&D. Recently, I dabbled in professional game mastering (paid to GM). Here are three tips to help you become a professional GM."
 tags:
-  - game mastering
-  - review
+  - misc
 after-content: footer-subscribe.html
 permalink: 3-tips-for-becoming-a-professional-game-master
 ---

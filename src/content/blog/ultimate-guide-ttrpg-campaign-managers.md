@@ -4,9 +4,7 @@ external: false
 date: 2023-01-01
 subtitle: 
 tags:
-- review
 - worldbuilding
-- campaign
 - organization
 cover-img: /assets/img/ultimate-guide-ttrpg-campaign-managers-2023.png
 thumbnail-img: 

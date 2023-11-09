@@ -7,10 +7,8 @@ title: "How I Prepare for D&D with Obsidian"
 share-description: "When it's time to plan my next Dungeons & Dragons session, I fire up Obsidian. But then what? Here's a behind-the-screen look at how I prepare D&D using Obsidian and the steps from SlyFlourish's Return of the Lazy Dungeon Master."
 thumbnail-img: assets/img/obsidian-dnd.png
 tags:
-  - game mastering
   - obsidian
   - organization
-  - prep
 after-content: footer-subscribe.html
 permalink: how-i-prepare-for-dnd-with-obsidian
 ---
