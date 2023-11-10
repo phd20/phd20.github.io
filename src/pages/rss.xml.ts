@@ -1,48 +1,30 @@
 import rss from '@astrojs/rss';
-import { blog } from '../lib/markdoc/frontmatter.schema';
-import { readAll } from '../lib/markdoc/read';
-import { SITE_TITLE, SITE_DESCRIPTION, SITE_URL } from '../config';
-import Markdoc from '@markdoc/markdoc';
+import { getCollection } from 'astro:content';
 import sanitizeHtml from 'sanitize-html';
+import MarkdownIt from 'markdown-it';
+const parser = new MarkdownIt();
 
-export const get = async () => {
-  const posts = await readAll({
-    directory: 'blog',
-    frontmatterSchema: blog,
-  });
-
-  const sortedPosts = posts
-    .filter((p) => p.frontmatter.draft !== true)
+export async function GET(context) {
+  const blog = await getCollection('blog');
+  const sortedPosts = blog
+    .filter((p) => p.data.draft !== true)
     .sort(
       (a, b) =>
-        new Date(b.frontmatter.date).valueOf() -
-        new Date(a.frontmatter.date).valueOf()
+        new Date(b.data.date).valueOf() -
+        new Date(a.data.date).valueOf()
     );
-
-  let baseUrl = SITE_URL;
-  // removing trailing slash if found
-  // https://example.com/ => https://example.com
-  baseUrl = baseUrl.replace(/\/+$/g, '');
-
-  const rssItems = sortedPosts.map(
-    ({ frontmatter, slug, content: postContent }) => {
-      if (frontmatter.external) {
-        const title = frontmatter.title;
-        const pubDate = frontmatter.date;
-        const link = frontmatter.url;
-
-        return {
-          title,
-          pubDate,
-          link,
-        };
-      }
-
-      const title = frontmatter.title;
-      const pubDate = frontmatter.date;
-      const description = frontmatter.description;
-      const link = `${baseUrl}/blog/${slug}`;
-      const content = sanitizeHtml(Markdoc.renderers.html(postContent), {
+  return rss({
+    title: 'PhD20',
+    description: 'Ideas and resources for Dungeons & Dragons and other tabletop roleplaying games',
+    site: context.site,
+    items: sortedPosts.map((post) => ({
+      title: post.data.title,
+      pubDate: post.data.date,
+      description: post.data.description,
+      // Compute RSS link from post `slug`
+      // This example assumes all posts are rendered as `/blog/[slug]` routes
+      link: `/blog/${post.slug}/`,
+      content: sanitizeHtml(parser.render(post.body), {
         allowedTags: sanitizeHtml.defaults.allowedTags.concat([
           'img',
           'pre',
@@ -57,23 +39,8 @@ export const get = async () => {
         ]),
         allowedAttributes: { img: ['src', 'alt'] },
         allowedSchemes: ['data', 'http', 'https'],
-        allowedIframeHostnames: ['www.youtube.com', 'www.twitter.com'],
-      });
-
-      return {
-        title,
-        pubDate,
-        description,
-        link,
-        content,
-      };
-    }
-  );
-
-  return rss({
-    title: SITE_TITLE,
-    description: SITE_DESCRIPTION,
-    site: baseUrl,
-    items: rssItems,
+        allowedIframeHostnames: ['www.youtube.com'],
+      }),
+    })),
   });
-};
+}
