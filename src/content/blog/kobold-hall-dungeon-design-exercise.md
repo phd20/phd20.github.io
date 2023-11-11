@@ -15,7 +15,7 @@ Designing dungeons is one of the many fun jobs of a game master. But designing a
 ![A map of Kobold Hall, a 4E D&D Dungeon.](/images/koboldhall.jpg)
 
 ## The Design
-One idea for creating awesome dungeons is to use “Jaquays-style” design. For an in-depth look at what that is, check out [this series](https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon) by the Alexandrian. There’s also [A Simpler Checklist for Jaquays-style Dungeon Maps](https://slyflourish.com/simpler_jaquay_style_maps.html). To keep the exercise simple, I chose to focus on **secret paths** that introduce new areas and create new ways to navigate Kobold Hall—skipping rooms or introducing new dynamics to existing rooms. 
+One idea for creating awesome dungeons is to use “Xandering” design. For an in-depth look at what that is, check out [this series](https://thealexandrian.net/wordpress/13085/roleplaying-games/xandering-the-dungeon) by the Alexandrian. There’s also [A Simpler Checklist for Engaging Dungeon Maps](https://slyflourish.com/simpler_jaquay_style_maps.html). To keep the exercise simple, I chose to focus on **secret paths** that introduce new areas and create new ways to navigate Kobold Hall—skipping rooms or introducing new dynamics to existing rooms. 
 
 ## The Exercise
 1. Get a copy of the Kobold Hall map. You can perform a Google image search or get a screenshot from the [4E DMG](https://www.dmsguild.com/product/56694/Dungeon-Masters-Guide-4e). 
