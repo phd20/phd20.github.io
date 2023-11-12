@@ -1,0 +1,16 @@
+---
+import { getCollection } from "astro:content";
+
+const blogPosts = await getCollection('blog', ({ data }) => {
+  return data.draft !== true;
+});
+
+const latest = blogPosts.reduce((a, b) => (a.data.date > b.data.date ? a : b));
+
+---
+
+<div>
+    <h2>Latest Article</h2>
+    <strong><a href={`/blog/${latest.slug}`}>{latest.data.title}</a></strong>
+</div>
+  

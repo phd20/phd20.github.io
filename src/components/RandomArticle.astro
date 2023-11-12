@@ -1,0 +1,18 @@
+---
+import { getCollection } from "astro:content";
+
+const blogPosts = await getCollection('blog', ({ data }) => {
+  return data.draft !== true;
+});
+
+const random = Math.floor(Math.random() * blogPosts.length);
+
+const randomPost = blogPosts[random];
+
+---
+
+<div>
+    <h3>Random Article</h3>
+    <a href={`/blog/${randomPost.slug}`}>{randomPost.data.title}</a>
+</div>
+  
