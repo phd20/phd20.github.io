@@ -316,6 +316,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"dark-side-dnd-beyond.md": {
+	id: "dark-side-dnd-beyond.md";
+  slug: "dark-side-dnd-beyond";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 "getting-started-with-obsidian-dnd.md": {
 	id: "getting-started-with-obsidian-dnd.md";
   slug: "getting-started-with-obsidian-dnd";
