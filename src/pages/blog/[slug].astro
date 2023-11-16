@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BlogPostMeta from 'src/components/BlogPostMeta.astro';
+import { SITE_URL } from 'src/config';
 import ContentLayout from 'src/layouts/ContentLayout.astro';
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {
@@ -9,9 +10,15 @@ export async function getStaticPaths() {
     params: { slug: entry.slug }, props: { entry },
   }));
 }
+
 // 2. For your template, you can get the entry directly from the prop
 const { entry } = Astro.props;
 const { Content } = await entry.render();
+
+const ogImageAbsoluteUrl =
+  entry.data.external !== true && entry.data.ogImagePath
+    ? new URL(entry.data.ogImagePath, SITE_URL).toString()
+    : undefined;
 ---
 
 <ContentLayout title={entry.data.title} date={entry.data.date}>
@@ -20,7 +27,7 @@ const { Content } = await entry.render();
     description={entry.data.external ? undefined : entry.data.description}
     publishDate={entry.data.date.toISOString()}
     pagePath={`/blog/${entry.slug}`}
-    ogImageAbsoluteUrl={"ogImageAbsoluteUrl"}
+    ogImageAbsoluteUrl={ogImageAbsoluteUrl}
     slot="meta"
   />
   <Content slot="content" />
