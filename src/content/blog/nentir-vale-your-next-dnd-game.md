@@ -2,6 +2,8 @@
 title: Why Your Next D&D Campaign Should Use the Nentir Vale
 external: false
 date: 2023-10-21
+ogImagePath: /images/nentir-vale-map.jpg
+ogImageAltText: Map of the Nentir Vale
 draft: false
 tags:
   - worldbuilding

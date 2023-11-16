@@ -6,7 +6,8 @@ url: atomic-worldbuilding
 subtitle: 
 tags:
   - worldbuilding
-cover-img: 
+ogImagePath: /images/site-cover-2023.png
+ogImageAltText: PhD20.com
 thumbnail-img:
 share-title: Atomic Worldbuilding
 share-description: "I love worldbuilding. Most game masters do. But I find it hard to strike a balance between delivering value and having fun. Enter *atomic* worldbuilding."

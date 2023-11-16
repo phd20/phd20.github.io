@@ -2,6 +2,8 @@
 title: Quick Dungeon Map Prep in Obsidian
 external: false
 date: 2023-07-09
+ogImagePath: /images/obsidian-dungeon-map.png
+ogImageAltText: A screenshot of a dungeon map with various markers in ObsidianMD. One marker is showing a popup with a description of the room that marker is in.
 draft: false
 tags:
   - obsidian

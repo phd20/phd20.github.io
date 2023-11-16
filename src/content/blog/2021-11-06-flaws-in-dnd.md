@@ -2,7 +2,8 @@
 published: true
 external: false
 date: 2021-11-06
-
+ogImagePath: /images/user-manual.jpg
+ogImageAltText: A witch and cat falling through the sky with a floating city in the background
 subtitle: Make the Most of Flaws
 thumbnail-img: /assets/img/user-manual.jpg
 tags:
@@ -16,7 +17,7 @@ Flaws and failure provide unparalleled opportunities for memorable moments in D&
 
 What are flaws? According to the *Basic Rules*: "your character’s flaw represents some vice, compulsion, fear, or weakness—in particular, anything that someone else could exploit to bring you to ruin or cause you to act against your best interests." Most D&D 5E characters have 1-2 flaws and these are often picked from a list associated with the character's background. In my experience, flaws are rarely used and often forgotten. I'll be honest, as a player, I've even forgotten my characters' flaws before. As a Dungeon Master, I have a hard time keeping track of all the characters' flaws. And an even harder time using for them.
 
-![user-manual.jpg](/images/user-manual.jpg)
+![A witch and cat falling through the sky with a floating city in the background](/images/user-manual.jpg)
 _"User Manual" by David Revoy_
 
 Players underutilize flaws for one of two reasons. The first reason is that they forget about the flaw. This is easy to do since flaws don't come up often. The second reason is that they don't recognize an opportunity to use the flaw. 

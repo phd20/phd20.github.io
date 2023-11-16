@@ -2,7 +2,8 @@
 published: true
 external: false
 date: 2021-12-23
-
+ogImagePath: /images/obsidian-banner.png
+ogImageAltText: Obsidian
 title: Using D&D PDFs in Obsidian
 thumbnail-img: /assets/img/obsidian-banner.png
 tags:

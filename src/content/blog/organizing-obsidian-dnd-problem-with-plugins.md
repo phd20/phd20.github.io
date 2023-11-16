@@ -2,6 +2,8 @@
 title: Organizing Obsidian for D&D | The Problem With Plugins
 external: false
 date: 2023-06-25
+ogImagePath: /images/site-cover-2023.png
+ogImageAltText: PhD20.com
 draft: false
 tags:
   - obsidian

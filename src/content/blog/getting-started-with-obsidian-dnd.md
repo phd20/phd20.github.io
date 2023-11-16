@@ -2,7 +2,8 @@
 published: true
 external: false
 date: 2021-12-20
-
+ogImagePath: /images/overview.png
+ogImageAltText: Overview
 title: Getting Started with Obsidian for D&D ✨
 thumbnail-img: /assets/img/overview.png
 share-description: "After years of searching, I’ve found my favorite way to manage my notes and worldbuilding for Dungeons & Dragons campaigns."

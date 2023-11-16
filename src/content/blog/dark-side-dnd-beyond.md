@@ -2,6 +2,8 @@
 title: The Dark Side of D&D Beyond
 external: false
 date: 2023-11-17
+ogImagePath: /images/dnd_beyond_platforms.png
+ogImageAltText: A laptop and phone displaying the D&D Beyond interface.
 draft: true
 tags:
   - 5e

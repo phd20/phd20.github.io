@@ -17,7 +17,8 @@ nav-short: false
 gh-repo: 
 gh-badge:
 last-updated: 
- 
+ogImagePath: /images/ultimate-guide-ttrpg-campaign-managers-2023.png
+ogImageAltText: Icons for various tools all surrounding the ampersand from D&D
 footer-extra: 
 before-content:
 after-content: footer-subscribe.html 

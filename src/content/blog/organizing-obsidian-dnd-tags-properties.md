@@ -2,6 +2,8 @@
 title: Organizing Obsidian for D&D | Tags and Properties
 external: false
 date: 2023-09-10
+ogImagePath: /images/site-cover-2023.png
+ogImageAltText: PhD20.com
 draft: false
 tags:
   - organization

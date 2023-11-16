@@ -3,7 +3,8 @@ published: true
 external: false
 draft: false
 date: 2022-10-30
-
+ogImagePath: /images/site-cover-2023.png
+ogImageAltText: PhD20.com
 title: "My Obsidian Setup for D&D"
 share-description: "This is how I organize my Dungeons & Dragons world and campaigns within Obsidian."
 tags:

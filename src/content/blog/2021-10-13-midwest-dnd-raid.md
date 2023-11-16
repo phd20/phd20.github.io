@@ -2,7 +2,8 @@
 published: true
 external: false
 date: 2021-10-13
-
+ogImagePath: /images/0PYesXStWqHEpoTDx.jpg
+ogImageAltText: Six images of snacks, drinks, and TTRPG miniatures
 subtitle: D&D Like No Other
 title: Midwest D&D Raid
 tags:
@@ -19,7 +20,7 @@ I was the Dungeon Master for a campaign that last from 2010 to 2017. In that gro
 
 We were going to run an MMO raid-style, one-shot adventure. Hard as hell. Players chose their favorite character from previous campaigns to bring back. Heroes called across time and space to face the threat of annihilation. The "Architects of Annihilation" went into planning.
 
-![0PYesXStWqHEpoTDx.jpg](/images/0PYesXStWqHEpoTDx.jpg)
+![Six images of snacks, drinks, and TTRPG miniatures](/images/0PYesXStWqHEpoTDx.jpg)
 
 I'll skip the major details of the raid and say that Moax designed one killer adventure. I took his ideas and helped him flesh them out with battle maps and props and we were off. The night before, a few of us met at the venue to prepare. Moax and I finalized the monsters we'd be using and did a run-through of the raid. After that, we all went out for drinks.
 

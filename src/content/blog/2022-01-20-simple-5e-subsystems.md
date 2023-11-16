@@ -2,7 +2,8 @@
 published: true
 external: false
 date: 2022-01-20
-
+ogImagePath: /images/site-cover-2023.png
+ogImageAltText: PhD20.com
 title: Simple 5E Sub-Systems for DMs in a Hurry
 share-title: Simple 5E Sub-Systems for DMs in a Hurry
 share-description: "How do we embrace fun, new gaming opportunities in 5E without overly complex sub-systems? By asking three questions."

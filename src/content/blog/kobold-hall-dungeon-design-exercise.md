@@ -2,6 +2,8 @@
 title: Kobold Hall | A Dungeon Design Exercise
 external: false
 date: 2023-10-28
+ogImagePath: /images/kobold-hall-phd20.jpg
+ogImageAltText: My version of Kobold Hall with additional passageways and loopbacks
 draft: false
 tags:
   - misc

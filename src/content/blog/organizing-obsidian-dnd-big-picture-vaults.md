@@ -2,6 +2,8 @@
 title: Organizing Obsidian for D&D | The Big Picture on Vaults
 external: false
 date: 2023-06-11
+ogImagePath: /images/OneVaultRuleAll.png
+ogImageAltText: Sauron reaching for the Obsidian logo
 draft: false
 tags:
   - obsidian

@@ -2,6 +2,8 @@
 title: Running Great Gauntlets in Shadowdark RPG
 external: false
 date: 2023-07-31
+ogImagePath: /images/shadowdark-party.png
+ogImageAltText: Party of adventurers holding up a torch and looking into the darkness around them.
 draft: false
 tags:
 - shadowdark

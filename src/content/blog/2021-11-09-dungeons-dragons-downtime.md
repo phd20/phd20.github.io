@@ -2,7 +2,8 @@
 published: true
 external: false
 date: 2021-11-09
-
+ogImagePath: /images/dungeons-dragons-downtime.png
+ogImageAltText: dungeons, dragons, downtime
 title: 'Dungeons, Dragons, & Downtime'
 subtitle: Make the Most of Downtime
 thumbnail-img: /assets/img/dungeons-dragons-downtime.png

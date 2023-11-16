@@ -3,7 +3,8 @@ published: true
 title: Creating a Basic Interactive Map in Obsidian
 external: false
 date: 2022-11-18
-
+ogImagePath: /images/obsidian-map-pins.png
+ogImageAltText: A screenshot of a map in Obsidian with various pins. One pin shows a preview of another note.
 after-content: footer-subscribe.html
 permalink: creating-a-basic-interactive-map-in-obsidian
 tags:

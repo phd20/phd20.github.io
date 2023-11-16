@@ -2,7 +2,8 @@
 published: true
 external: false
 date: 2022-08-04
-
+ogImagePath: /images/site-cover-2023.png
+ogImageAltText: PhD20.com
 title: "3 Things I Learned as a Professional Game Master"
 share-description: "I've run hundreds of games of D&D. In the last year, I dabbled in a few games as a professional game master (paid to GM). Here are three things I learned."
 tags:

@@ -6,6 +6,8 @@ subtitle:
 tags:
 - homebrew
 - 5e
+ogImagePath: /images/phb-equipment.png
+ogImageAltText: Equipment from the Player's Handbook
 cover-img: "/assets/img/phb-equipment.png"
 thumbnail-img:
 share-title: Make Equipment Interesting in D&D

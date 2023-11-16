@@ -5,6 +5,8 @@ date: 2023-07-15
 draft: false
 tags:
 - misc
+ogImagePath: /images/battleboard.png
+ogImageAltText: A black frame decorated with white and red runes, patterns, swords, and dice. It’s framing an empty white space with a black chalk marker lying on top.
 ---
 
 Figuring out maps for in-person D&D is tough. Whether you use a whiteboard, printed maps, dungeon tiles, or terrain, consider adding a battle board. This is a fun, low-effort crafting experiment that gives you a dynamic artifact to bring to the table each week.

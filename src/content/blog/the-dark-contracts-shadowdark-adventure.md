@@ -2,6 +2,8 @@
 title: The Dark Contracts | A Level 1-2 Shadowdark RPG Adventure
 external: false
 date: 2023-07-22
+ogImagePath: /images/dark-contracts-blog.png
+ogImageAltText: The Dark Contracts designed for use with Shadowdark RPG
 draft: false
 tags: 
 - shadowdark

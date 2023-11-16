@@ -2,7 +2,8 @@
 published: true
 external: false
 date: 2022-08-11
-
+ogImagePath: /images/site-cover-2023.png
+ogImageAltText: PhD20.com
 title: "3 Tips for Becoming a Professional Game Master"
 share-description: "Over the last decade, I've run hundreds of games of D&D. Recently, I dabbled in professional game mastering (paid to GM). Here are three tips to help you become a professional GM."
 tags:

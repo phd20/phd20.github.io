@@ -3,8 +3,8 @@ title: 3 Myths About Using Published Settings
 external: false
 date: 2023-11-04
 draft: false
-ogImageAbsoluteUrl: '/images/crown-oathbreaker.jpg'
-ogImageAltText: 'A tree with many eyes on it set against a fantasy landscape background'
+ogImagePath: /images/crown-oathbreaker.jpg
+ogImageAltText: A tree with many eyes on it set against a fantasy landscape background
 tags:
   - misc
   - worldbuilding

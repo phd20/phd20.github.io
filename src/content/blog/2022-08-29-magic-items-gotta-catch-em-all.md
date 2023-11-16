@@ -2,7 +2,8 @@
 published: true
 external: false
 date: 2022-08-29
-
+ogImagePath: /images/mewtwo.jpeg
+ogImageAltText: Mewtwo
 title: "Gotta Catch 'Em All: Magic Items"
 share-description: "I like to look to my favorite books, games, and shows to inspire my next creations in D&D. This is a powerful tool for a DM and an endless source of inspiration. When looking at Pokémon, the inspiration was obvious: magic items."
 tags:

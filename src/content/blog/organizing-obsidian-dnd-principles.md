@@ -2,6 +2,8 @@
 title: Organizing Obsidian for D&D | 3 Principles
 external: false
 date: 2023-06-18
+ogImagePath: /images/gandalf-archives.jpg
+ogImageAltText: Gandalf looking through the archives in Gondor
 draft: false
 tags:
   - obsidian

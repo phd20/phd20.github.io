@@ -2,7 +2,8 @@
 published: true
 external: false
 date: 2022-06-13
-
+ogImagePath: /images/site-cover-2023.png
+ogImageAltText: PhD20.com
 title: "Scattered Series of the Infinite Wizard"
 subtitle: "A Fantastic Location for Your Game"
 share-description: "A collection of twelve magical locations."
