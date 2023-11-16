@@ -3,6 +3,8 @@ title: 4 Ways to Improve  Initiative in D&D 5E
 external: false
 date: 2023-11-10
 draft: false
+ogImagePath: /images/crow_s_nest_by_maxprodanov_dc767gq.jpg
+ogImageAltText: Warrior with an axe standing on drawbridge above a group of soldiers looking up at him.
 tags:
   - homebrew
   - 5e
