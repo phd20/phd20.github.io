@@ -4,7 +4,8 @@ external: false
 date: 2023-11-17
 ogImagePath: /images/dnd_beyond_platforms.png
 ogImageAltText: A laptop and phone displaying the D&D Beyond interface.
-draft: true
+description: D&D Beyond’s tools are great. But they come with some unintended consequences that impact our creativity and play.
+draft: false
 tags:
   - 5e
   - misc
