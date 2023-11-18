@@ -35,7 +35,7 @@ When you build your character with Beyond, you miss out on the tactile experienc
 
 The same rings true for game masters. Building encounters limits you to what’s available. Or adds significant work to use homebrew creatures. Using an [alternate initiative system](/blog/4-ways-to-improve-initiative-dnd)? Not very easily, if at all, in the encounter tracker. Ultimately, you disengage a bit. You might even get lazy and just start building encounters purely by budget in the builder, without starting with your world and the story. Again, you lose out on flipping through monster books, absorbing lore, and stumbling onto _something better_ than you set out to find. 
 
-—-
+---
 
 There’s no doubt D&D Beyond has streamlined character creation and other aspects of D&D like never before. The accessibility has brought the magic of Dungeons & Dragons to those who can’t solely rely on books alone. But for many in the hobby, there’s a dark side to that convenience. You lose flexibility, the magic of physical books, and risk feeling like you **have** to use *their* tools to play the game we know and love. 
 
