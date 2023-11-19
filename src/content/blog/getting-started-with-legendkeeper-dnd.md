@@ -19,7 +19,7 @@ Are you looking for an easy way to build and manage worlds for your *Dungeons & 
 
 > “Discover the ultimate worldbuilding tool for game-masters and storytellers”
 
-LegendKeeper is a set of simple, top-tier tools for building and managing your worlds and campaigns. While it may not have the endless possibilities of something like Obsidian, it’s easier to get started with and far easier to share with others.
+LegendKeeper is an app with top-tier tools for worldbuilding and RPG campaign management. While it may not have the endless possibilities of something like [Obsidian](/blog/getting-started-with-obsidian-dnd), it’s **far** easier to get started and to share with others.
 
 ## The Power of Mapping
 
