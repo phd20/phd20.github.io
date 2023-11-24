@@ -2,7 +2,7 @@
 title: Getting Started with LegendKeeper for D&D
 external: false
 date: 2023-11-24
-draft: true
+draft: false
 tags:
   - worldbuilding
   - organization
@@ -58,7 +58,7 @@ With a single click, you can hide or reveal your pages and tabs. Get even more g
 
 This quick list barely scratches the surface.
 
-—-
+---
 
 LegendKeeper provides a superior product with almost no learning curve. You can dive in immediately to plan your games and build your worlds, while the tools stay out of your way. Few toolsets provide such intuitive yet powerful workflows.
 
