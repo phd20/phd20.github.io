@@ -215,6 +215,16 @@ a.animated.active:after {
 
 /* ------ SUBSCRIBE FORM STYLES - START ------ */
 
+.subscribe {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.subscribe-info {
+	text-align: center;
+}
+
 #mc_embed_signup {
 	display: flex;
 	justify-content: center;

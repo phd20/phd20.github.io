@@ -42,9 +42,9 @@ const formattedDate = new Date(date).toLocaleDateString("en-us", {
       <section class="blog-post">
         <h1 class="title">{title}</h1>
         <time class="publish-date">{formattedDate}</time>
-        <slot name="content" />
-        <small style="display: flex; justify-content: center; ">Enjoy this content?</small>
         <Subscribe />
+        <br />
+        <slot name="content" />
       </section>
     </main>
     <Footer />

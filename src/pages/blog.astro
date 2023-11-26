@@ -19,9 +19,8 @@ const sortedPosts = allBlogPosts
 <PageLayout>
   <PageMeta title={`Blog | ${SITE_TITLE}`} slot="meta" />
   <section slot="main">
-    <h3 id="mc_embed_signup">Get new articles sent to your inbox</h3>
     <Subscribe />
-    <br />
+    <h3>All blog posts</h3>
     <ul>
       {
         sortedPosts.map((post) => {
