@@ -14,9 +14,9 @@ after-content: footer-subscribe.html
 redirect_from: /2021-12-20-getting-started-with-obsidian
 ---
 
-*Updated 2023-06-01*
+*Updated 2023-11-29*
 
-After years of searching, I've found my favorite way to manage my notes and worldbuilding for *Dungeons & Dragons* campaigns. It's called Obsidian.
+After years of searching, I've found one of my favorite ways to manage my notes and worldbuilding for *Dungeons & Dragons* campaigns. It's called Obsidian.
 
 ![Overview](/images/overview.png)
 
@@ -89,10 +89,6 @@ But here's where we blow the lid off of this app, making it the most powerful to
 
 There are a handful of plugins that are useful for game masters. And a number of them were designed *specifically for* game masters and TTRPG players. I'm not going to go too in-depth here but let's take a look at some of my favorites.
 
-### Banners
-
-Simply put, allows you to add banner images to your notes. You can see some examples in the previous screenshots and gifs in this article.
-
 ### Dataview
 
 A powerhouse. Write queries to organize and display your data efficiently.
@@ -109,41 +105,40 @@ This is what originally hooked me on plugins. I've long loved using [Fantasy Cal
 
 ![Fantasy Calendar](/images/fantasy_calendar.png)
 
+#### Calendarium
+
+Alternatively, you can opt for the newer (and laregly similar) [Calendarium](https://github.com/javalent/the-calendarium) plugin.
+
 ### Initiative Tracker
 
-Track initiative, HP, and AC for combat right inside Obsidian. Pair this with 5e Statblocks (see below) and you can even get statblocks from your initiative order. Pair this with Dice Roller and roll from those stat blocks!
+Track initiative, HP, and AC for combat right inside Obsidian. Pair this with Fantasy Statblocks (see below) and you can even get statblocks from your initiative order. Pair this with Dice Roller and roll from those stat blocks!
 
 ![Initiative Tracker](/images/initiative_tracker.png)
 
-### TTRPG Statblocks
+### Fantasy Statblocks
 
 Render various TTRPG statblocks within Obsidian. Comes with built-in monsters from the SRD and allows for homebrew and custom imports from popular monster building sites.
 
 ### Obsidian Leaflet
 
-A godsend. Render any image as an interactive map. Drop custom pins on the map to link to any content in Obsidian. It also supports drawings and map layers.
+A godsend. Render any image as an interactive map. Drop custom pins on the map to link to any content in Obsidian. It also supports drawings and map layers. See my article on [Creating a Basic Interactive Map in Obsidian](/blog/creating-a-basic-interactive-map-in-obsidian) to get started.
 
 ![Obsidian Leaflet](/images/obsidian-leaflet.gif)
 
-### Timelines
-
-Create immersive timelines that link directly to your notes!
-
-![Timeline](/images/timeline.png)
-
-Here's a few other plugins that I've used:
+Here's a few other plugins worth considering:
 
 - Advanced Tables
+- April's Automatic Timelines
 - Buttons
+- Commander
 - Custom Frames
 - Dice Roller
 - [Discord Share](/blog/introducing-discord-share-for-obsidian)
 - Folder Note
 - Hot Reload (for development only)
-- Image Toolkit
-- Image Window
+- Iconize
+- Image Converter
 - Obsidian42 - BRAT (allows for easy install of a beta plugin)
-- Pane Relief
 - Templater
 - Various Complements
 
