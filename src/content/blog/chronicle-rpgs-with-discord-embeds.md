@@ -2,7 +2,7 @@
 title: Chronicle RPG Adventures with Discord Embeds
 external: false
 date: 2023-12-08
-draft: true
+draft: false
 tags:
   - misc
   - obsidian
