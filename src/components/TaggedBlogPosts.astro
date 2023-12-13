@@ -4,7 +4,7 @@ import { getCollection } from "astro:content";
 const {title, tag} = Astro.props;
 
 const taggedBlogPosts = await getCollection('blog', ({ data }) => {
-  return data.tags.includes(tag);
+  return !data.draft && data.tags.includes(tag);
 });
 
 const sortedPosts = taggedBlogPosts.sort((a, b) => a.data.date.getTime() - b.data.date.getTime());
