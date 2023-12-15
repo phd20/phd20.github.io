@@ -2,7 +2,7 @@
 title: Organizing Obsidian for D&D | SRD & External Resources
 external: false
 date: 2023-12-15
-draft: true
+draft: false
 tags:
   - obsidian
   - organization
