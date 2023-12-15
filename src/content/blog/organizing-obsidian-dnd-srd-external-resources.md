@@ -35,3 +35,5 @@ A better way is to add notes to your vault organically when you need them. Are y
 If you still want the entire SRD as a local copy to reference, just add the PDF to your vault. 
 
 Take control over your external resources and your vault will grow with you instead of beyond you. You’ll also save yourself time and future headaches. 
+
+Game on.
