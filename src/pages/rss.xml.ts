@@ -26,6 +26,7 @@ export async function GET(context) {
       link: `/blog/${post.slug}/`,
       content: sanitizeHtml(parser.render(post.body), {
         allowedTags: sanitizeHtml.defaults.allowedTags.concat([
+          'a',
           'img',
           'pre',
           'code',
@@ -37,7 +38,7 @@ export async function GET(context) {
           'h5',
           'h6',
         ]),
-        allowedAttributes: { img: ['src', 'alt'] },
+        allowedAttributes: { img: ['src', 'alt'], a: ['href'] },
         allowedSchemes: ['data', 'http', 'https'],
         allowedIframeHostnames: ['www.youtube.com'],
       }),
