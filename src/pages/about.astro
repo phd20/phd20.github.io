@@ -1,0 +1,39 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import PageMeta from '../components/PageMeta.astro';
+import { SITE_TITLE } from '../config';
+import Heading from 'src/components/ui/Heading.astro';
+
+---
+
+<PageLayout>
+  <PageMeta title={`About | ${SITE_TITLE}`} slot="meta" />
+  <section slot="main">
+    <Heading as="h2">About PhD20</Heading>
+    <p>
+        <strong>PhD20</strong> is all about ideas and resources for Dungeons & Dragons and other Tabletop RPGs. We keep things simple, valuable, and fun.
+    </p>
+    <p>
+        This blog doesn't use cookies, JavaScript, or tracking of any kind. The goal is to get you information fast and without worry. 
+    </p>
+    <Heading as="h3">About the Author</Heading>
+    <p>
+        👋 My name is Kirk. I've been playing D&D since 2010. In 2011, Chris Perkins chose my dungeon design as a finalist for his 
+        "Acererak's Apprentice" contest on the <em>Dungeon Master Experience</em> blog. That introduced me 
+        to some other creators and led me to YouTube, where I ran a D&D channel for the next five years. 
+    </p>
+    <p>
+        I'm particularly passionate about the intersection of our hobby and technology—both the good and the bad. I write a lot about 
+        building campaigns and worlds and the tools to help us organize them.
+    </p>
+    <p>
+        <a href="mailto:kirk@phd20.com">Email me</a> or find me on <a href="https://chirp.enworld.org/@phd20">Mastodon</a>.
+    </p>
+    <p>
+        Game on.
+    </p>
+    <div style="display:flex;justify-content:center">
+        <img src="/images/avatar.jpg" alt="Picture of someone in a D&D beanie and wearing a D&D mask—only exposing their eyes."></img>
+    </div>
+  </section>
+</PageLayout>

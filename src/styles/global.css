@@ -249,6 +249,7 @@ a.animated.active:after {
 	border: 0;
 	padding: 0.5rem;
 	background-color: var(--palette-primary);
+	font-weight: bold;
 	color: var(--palette-primary-text);
 }
 
