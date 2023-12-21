@@ -7,6 +7,7 @@
 /* ------ THEMING - Light Mode ------ */
 :root {
 	--palette-primary: #4f46e5;
+	--palette-primary-text: #ffffff;
 
 	--text: #1e293b;
 	--text-muted: #64748b;
@@ -25,6 +26,7 @@
 @media (prefers-color-scheme: dark) {
 	:root {
 		--palette-primary: #20bdff;
+		--palette-primary-text: #262626;
 
 		--text: #d2d3d7;
 		--text: #d4d4d8;
@@ -238,7 +240,7 @@ a.animated.active:after {
 }
 
 #bd-email::placeholder {
-	color: var(--code-text);
+	color: var(--text-muted);
 }
 
 #bd-subscribe {
@@ -247,6 +249,7 @@ a.animated.active:after {
 	border: 0;
 	padding: 0.5rem;
 	background-color: var(--palette-primary);
+	color: var(--palette-primary-text);
 }
 
 #bd-subscribe:hover {
