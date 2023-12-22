@@ -2,7 +2,7 @@
 title: Best of 2023
 external: false
 date: 2023-12-22
-draft: true
+draft: false
 tags:
   - homebrew
   - 5e
