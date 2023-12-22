@@ -29,7 +29,7 @@ This series helps game masters simplify and secure their approach to organizing 
 - I started running a 5E game set in the Nentir Vale and [tried to convince you to do the same](/blog/nentir-vale-your-next-dnd-game). 
 - For those hesitant to use a published setting, we talked about [3 myths](/blog/published-settings-3-myths/) to avoid. 
 - For 5E, we looked at [4 ways to improve initiative](/blog/4-ways-to-improve-initiative-dnd).
-- We looked at how to [chronicle RPG adventures with Discord Embeds]([Chronicle RPG Adventures with Discord Embeds](/blog/chronicle-rpgs-with-discord-embeds).
+- We looked at how to [Chronicle RPG Adventures with Discord Embeds](/blog/chronicle-rpgs-with-discord-embeds).
 - We talked about the [Dark Side of D&D Beyond](/blog/dark-side-dnd-beyond).
 
 ## Shadowdark 
