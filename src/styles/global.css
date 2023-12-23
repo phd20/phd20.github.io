@@ -255,6 +255,7 @@ a.animated.active:after {
 
 #bd-subscribe:hover {
 	filter: brightness(.9);
+	color: var(--text-heading);
 }
 
 /* ------ SUBSCRIBE FORM STYLES - END ------ */
