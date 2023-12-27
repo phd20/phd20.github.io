@@ -1,14 +1,15 @@
 ---
-title: The Ultimate Guide to TTRPG Campaign Managers in 2023
+title: The Ultimate Guide to TTRPG Campaign Managers in 2024
 external: false
-date: 2023-01-01
+date: 2024-01-01
+draft: true
 subtitle: 
 tags:
 - worldbuilding
 - organization
 cover-img: /assets/img/ultimate-guide-ttrpg-campaign-managers-2023.png
 thumbnail-img: 
-share-title: The Ultimate Guide to TTRPG Campaign Managers in 2023
+share-title: The Ultimate Guide to TTRPG Campaign Managers in 2024
 share-description: Campaign management for tabletop roleplaying games can be complex. But it doesn't have to be. These powerful tools will help you manage your game, your way.
 share-img: 
 readtime: true
@@ -38,6 +39,35 @@ redirect_from: /2022-01-01-ultimate-guide-ttrpg-campaign-management/
 I'm fascinated by the opportunities that technology unlocks for tabletop roleplaying game campaign management. Nearly a decade ago, I kickstarted one of the best choices out there. But by 2016, few options (if any) were keeping up with technology. I [ranted](https://youtu.be/ZNcQnjpLVuk) about it—[twice](https://youtu.be/maUxXZnyws4). Since those rants, this micro-industry has taken off. Now we have an overwhelming number of options. Some options are built for TTRPGs. Some are not. So where do we start? Let's dive into the **features**, **strengths**, and **weaknesses** of the *best* options available. 
 
 ## TTRPG Software
+
+### LegendKeeper
+
+![A look at the Legendkeeper UI showing a map with pins.](/images/legendkeeper-overview.png)
+
+> _LegendKeeper_ is a modern web app that makes it easy to design, build, and share worlds for any kind of story.
+
+LegendKeeper is a fast and flexible tools for worldbuilding and TTRPG campaign management. The tool is surrounded by a passionate founder and active community. The use of modern technologies under the hood make this app _fast_ to use. I’d argue that no other program offers workflows this fast and easy to use. I've got an article to help you [get started](/blog/getting-started-with-legendkeeper-dnd).
+
+#### Key Features 
+- Simple and powerful editor with the `/` menu
+- Intuitive mapping tools to drop pins and link to wiki content 
+- Linking through quick mentions or auto-linking for entire documents 
+- Built-in offline support 
+- Granular permissions to limit who can see content 
+
+#### Strengths  
+
+- **Easy to use**. LegendKeeper has almost no learning curve. Just open a document and start typing. The tools are easy to understand and feel familiar. Drag and drop to organize your wiki.
+- **Fast**. LegendKeeper outperforms the TTRPG competitors when it comes to loading times and workflow speed. I’d attribute this to the founder embracing modern technologies and making performance a priority.
+- **Flexible**. You’re in control of what documents contain and what templates you decide to create. You’re in control of how the wiki is organized.
+
+#### Weaknesses 
+
+-   **Presentation**. You can create columns, headings, tables, etc. But you can’t add custom styling like CSS or custom fonts. You’re left with the interface presented to you at the beginning.
+
+#### Cost 
+
+LegendKeeper has a free 14-day trial to let you try it out. After that, it's either $9/month or $90/year.
 
 ### World Anvil 
 
@@ -70,36 +100,6 @@ World Anvil is a _gargantuan_ suite of tools for building worlds, managing RPG
 
 World Anvil has a free tier to let you play with common features. Three paid tiers offer monthly and yearly subscriptions or a one-time "Lifetime Membership" payment. These tiers range from tools for novice writers to professionals looking to monetize content. At the time of writing, monthly paid memberships start as low as $7.
 
-### LegendKeeper
-
-![A look at the Legendkeeper UI showing a map with pins.](/images/legendkeeper-overview.png)
-
-> _LegendKeeper_ is a modern web app that makes it easy to design, build, and share worlds for any kind of story.
-
-LegendKeeper is a fast and flexible tools for worldbuilding and TTRPG campaign management. The tool is surrounded by a passionate founder and active community. The use of modern technologies under the hood make this app _fast_ to use. I’d argue that no other program offers workflows this fast and easy to use.
-
-#### Key Features 
-- Simple and powerful editor with the `/` menu
-- Intuitive mapping tools to drop pins and link to wiki content 
-- Linking through quick mentions or auto-linking for entire documents 
-- Built-in offline support 
-- Granular permissions to limit who can see content 
-
-#### Strengths  
-
-- **Easy to use**. LegendKeeper has almost no learning curve. Just open a document and start typing. The tools are easy to understand and feel familiar. Drag and drop to organize your wiki.
-- **Fast**. LegendKeeper outperforms the TTRPG competitors when it comes to loading times and workflow speed. I’d attribute this to the founder embracing modern technologies and making performance a priority.
-- **Flexible**. You’re in control of what documents contain and what templates you decide to create. You’re in control of how the wiki is organized.
-
-#### Weaknesses 
-
--   **Public access**. There’s no public access. For someone to see your stuff, you’d need to invite them to give them access. They need to set up and account and all that jazz. *Luckily*, public access is touted in their next major release.
--   **Presentation**. You can create columns, headings, tables, etc. But you can’t add custom styling like CSS or custom fonts. You’re left with the interface presented to you at the beginning.
-
-#### Cost 
-
-LegendKeeper has a free 14-day trial to let you try it out. After that, it's either $9/month or $90/year.
-
 ### Honorable Mentions
 - Adventurer’s Codex
 - Chronica
@@ -113,11 +113,11 @@ LegendKeeper has a free 14-day trial to let you try it out. After that, it's eit
 
 ### Obsidian 
 
-![An overview of the Obsidian UI showing a map with pins, dice roller, and other features.](/images/obsidian-overview-23.png)
+![An overview of the Obsidian UI showing a map with pins, dice roller, and other features.](/images/obsidian-overview-24.webp)
 
 > A second brain, for you, forever. Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files. 
 
-Obsidian is a **powerhouse** for organizing notes. If you forced me to pick one option from this article, Obsidian wins by a mile. This knowledge base works from local files and features are extended by community-built plugins. There's a strong TTRPG presence in the community and a handful of plugins designed for our hobby.
+Obsidian is a **powerhouse** for organizing notes. If you forced me to pick one option from this article, Obsidian wins by a mile. This knowledge base works from local files and features are extended by community-built plugins. There's a strong TTRPG presence in the community and a handful of plugins that are designed for roleplaying games.
 
 #### Key Features 
 - Community plugins 
@@ -136,7 +136,7 @@ Obsidian is a **powerhouse** for organizing notes. If you forced me to pick on
 - **Scaled learning curve**. The basics of organizing and writing notes couldn’t be simpler. But with the more advanced features, you will need to read documentation or watch tutorials. For example, some of the plugins provide *really powerful* capabilities. But you won’t figure out how to use them without a little reading. I've got an article to help you [get started](/blog/getting-started-with-obsidian-dnd/).
 
 #### Cost 
-Obsidian is free. You can add Sync (backup to access across devices) for $10/month or $96/year. Publish to a public website for $20/month or $192/year. Neither of these is required and free alternatives exist. 
+Obsidian is free. You can add Sync (backup to access across devices) for $10/month or $96/year. Publish to a public website for $10/month or $96/year. Neither of these is required and free alternatives exist.
 
 ### Notion 
 
