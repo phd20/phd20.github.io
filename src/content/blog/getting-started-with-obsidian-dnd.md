@@ -146,5 +146,5 @@ You'll notice that many of these are developed and maintained by Jeremy Valentin
 
 ## Summary
 
-I've only scratched the surface on what this powerful app can do. And more plugins and features are coming out weekly. Dive in. Try some stuff. I've found this to be a single app that can manage every single aspect of my game mastering life. And I love it.
+I've only scratched the surface on what this powerful app can do. And more plugins and features are coming out weekly. Dive in. Try some stuff. I've found this to be a single app that can manage every single aspect of my game mastering life. And I love it. If you're sold and want more guidance on how to organize your vault while avoiding common pitfalls, check out [these articles](/obsidian).
 
