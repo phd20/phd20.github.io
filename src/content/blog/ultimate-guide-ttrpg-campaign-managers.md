@@ -132,7 +132,7 @@ Obsidian is a **powerhouse** for organizing notes. If you forced me to pick on
 - **Infinitely extensible**. The community plugins are a gamechanger. Anyone can design and share features to extend Obsidian.
 
 #### Weaknesses 
-- **Sharing**. Outside of the paid Publish feature, there aren't great ways to share your content. Luckily for TTRPGs, you can use my [Discord Share](/blog/2022-11-07-introducing-discord-share-for-obsidian) plugin to share things with your players 😉.
+- **Sharing**. Outside of the paid Publish feature, there aren't great ways to share your content. Luckily for TTRPGs, you can use my [Discord Share](/blog/introducing-discord-share-for-obsidian) plugin to share things with your players 😉.
 - **Scaled learning curve**. The basics of organizing and writing notes couldn’t be simpler. But with the more advanced features, you will need to read documentation or watch tutorials. For example, some of the plugins provide *really powerful* capabilities. But you won’t figure out how to use them without a little reading. I've got an article to help you [get started](/blog/getting-started-with-obsidian-dnd/).
 
 #### Cost 
