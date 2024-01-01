@@ -2,7 +2,7 @@
 title: The Ultimate Guide to TTRPG Campaign Managers in 2024
 external: false
 date: 2024-01-01
-draft: true
+draft: false
 subtitle: 
 tags:
 - worldbuilding
