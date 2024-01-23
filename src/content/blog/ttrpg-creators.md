@@ -9,6 +9,8 @@ ogImagePath: /images/creators-to-follow.png
 ogImageAltText: TTRPG Creators to Follow
 ---
 
+*Updated 2024-01-23*
+
 Here's a non-comprehensive list of TTRPG creators that I've found inspiring and/or valuable over the last decade.
 
 - [Questing Beast](https://www.youtube.com/@QuestingBeast). Ben has an excellent **newsletter** and videos focusing mostly (but not all) on "old-school games." He's also a game designer and one of the best communicators of the **OSR**.
@@ -25,6 +27,7 @@ Here's a non-comprehensive list of TTRPG creators that I've found inspiring and/
 - [RPG with DBJ](https://www.youtube.com/@RPGwithDBJ). A **hidden gem** of fun streams covering the hobby and worldbuilding from the angle of weekly "themes."
 - [Mastering Dungeons](https://www.youtube.com/@masteringdungeons). A **must-listen podcast** by two veteran game designers that answers listener questions, covers industry news, and dives deep into various products and topics.
 - [The Arcane Library](https://www.youtube.com/@TheArcaneLibrary). Fantastic game designer that also makes fun and useful videos from time to time.
+- [Esper the Bard](https://www.youtube.com/@esperthebard). The **first** D&D YouTuber. He's got a massive library of great content and is a truly creative soul.
 - [Woodwwad](https://www.youtube.com/@woodwwad). Some older, deeply immersive actual plays and top-tier worldbuilding videos.
 - [Tallsquall](https://www.youtube.com/@Tallsquall). Incredibly good actual plays.
 - [Emergent Play](https://www.youtube.com/@EmergentPlay). Short, opinionated videos on game and play theory.
