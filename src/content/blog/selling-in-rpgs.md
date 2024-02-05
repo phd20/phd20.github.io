@@ -1,6 +1,6 @@
 ---
 aliases: 
-publish: false
+publish: true
 title: Selling in RPGs
 external: false
 date: 2024-02-05
