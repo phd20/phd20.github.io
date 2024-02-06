@@ -4,7 +4,7 @@ publish: true
 title: Selling in RPGs
 external: false
 date: 2024-02-05
-draft: true
+draft: false
 tags:
   - misc
 ogImagePath: /images/site-cover-2023.png
