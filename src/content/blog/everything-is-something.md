@@ -2,7 +2,7 @@
 title: Everything is Something
 external: false
 date: 2024-02-19
-draft: true
+draft: false
 tags:
   - misc
   - worldbuilding
