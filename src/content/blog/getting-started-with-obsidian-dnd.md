@@ -14,7 +14,7 @@ after-content: footer-subscribe.html
 redirect_from: /2021-12-20-getting-started-with-obsidian
 ---
 
-*Updated 2023-11-29*
+*Updated 2024-03-09*
 
 After years of searching, I've found one of my favorite ways to manage my notes and worldbuilding for *Dungeons & Dragons* campaigns. It's called Obsidian.
 
@@ -22,11 +22,11 @@ After years of searching, I've found one of my favorite ways to manage my notes 
 
 > Obsidian is a powerful and extensible knowledge base that works on top of your local folder of plain text files. 
 
-What does that mean? Its a simple desktop app that loads files (mainly markdown files and other assets like images, PDFs, etc. ) from your device, allowing you to work with the files directly and **so** much more.
+What does that mean? Its a simple desktop (and mobile) app that loads files (mainly markdown files and other assets like images, PDFs, etc. ) from your device, allowing you to work with the files directly and **so** much more.
 
 Get Obsidian by visiting their [website](https://obsidian.md).
 
-Your main folder is called a **vault**. You can have more than one but the app will load one vault per window. Start by creating a vault or selecting a folder from your device to act as the vault. From there, you can create more folders and notes and organize them however you like.
+Your main folder is called a **vault**. [You can have more than one](/blog/organizing-obsidian-dnd-big-picture-vaults) but the app will load one vault per window. Start by creating a vault or selecting a folder from your device to act as the vault. From there, you can create more folders and notes and organize them however you like.
 
 When you open a *note* in Obsidian (a markdown file), you'll see the *editor* interface for that note. You can toggle between *editing* the file or *previewing* the rendered markdown. It's as simple as that. Now let's look at a few of the features and plugins that make Obsidian so great for D&D.
 
@@ -133,11 +133,12 @@ Here's a few other plugins worth considering:
 - Commander
 - Custom Frames
 - Dice Roller
-- [Discord Share](/blog/introducing-discord-share-for-obsidian)
+- [Discord Share](/blog/introducing-discord-share-for-obsidian) (My own beta plugin!)
 - Folder Note
 - Hot Reload (for development only)
 - Iconize
 - Image Converter
+- Linter
 - Obsidian42 - BRAT (allows for easy install of a beta plugin)
 - Templater
 - Various Complements
