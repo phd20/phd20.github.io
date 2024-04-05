@@ -15,7 +15,7 @@ after-content: footer-subscribe.html
 permalink: my-obsidian-setup-for-dnd
 ---
 
-*Updated 2024-04-08*
+*Updated 2024-04-04*
 
 It's easy to [get started](/blog/getting-started-with-obsidian-dnd/) with Obsidian but the organizational possibilities are endless. Let's take a look "behind the screen" at my setup for Dungeons & Dragons. This is how I organize my world and campaigns within Obsidian. 
 
