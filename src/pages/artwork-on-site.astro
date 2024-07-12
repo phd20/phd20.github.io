@@ -1,0 +1,23 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import PageMeta from '../components/PageMeta.astro';
+import { SITE_TITLE } from '../config';
+import Heading from 'src/components/ui/Heading.astro';
+
+---
+
+<PageLayout>
+  <PageMeta title={`Artwork Featured on the Site | ${SITE_TITLE}`} slot="meta" />
+  <section slot="main">
+    <Heading as="h2">Artwork Featured on the Site</Heading>
+    <p>
+        Artwork featured on the site is attributed and used for entertainment purposes only. 
+        I prefer to showcase real artists and I try my best to avoid sharing AI-generated artwork here.
+    </p>
+    <Heading as="h3">Takedown Requests</Heading>
+    <p>
+        If you are the owner of artwork featured anywhere on this site and want it removed, 
+        please <a href="mailto:kirk@phd20.com?subject=Artwork Takedown Request">email me</a> and I will promptly do so. 
+    </p>
+  </section>
+</PageLayout>
