@@ -12,7 +12,7 @@ ogImageAltText: PhD20.com
 
 In RPGs, dice can transcend the players and game master as the ultimate arbiter and creator of outcomes. Without rolling dice (or insert other resolution mechanic here) in RPGs, it’s hard to say that we’re playing a game. But dice are the crucible through which our imaginary creations are given a sense of truth and meaning. When called upon, dice deliver an answer that’s beyond our imaginations. They assist both players and game masters in suspending their disbelief by providing some outside authority that governs outcomes in our fantasy worlds. The unpredictability of a die roll adds tension and excitement.
 
-![](/images/commission__dnd_group_by_alteya_devw96g.jpg)
+![A D&D party charging forth through skeletons with a larger figure in the background rolling a d12 with a magical book nearby.](/images/commission__dnd_group_by_alteya_devw96g.jpg)
 <small>*Commission: DnD group by [Alteya](https://www.deviantart.com/alteya/art/Commission-DnD-group-900099448)*</small>
 
 Dice can even help in our hobby beyond just resolving situations during a game. We can use dice in worldbuilding and game preparation. They help us overcome a blank page, perfectionism, creative blocks, and indecision. Random tables are at the heart of this.
