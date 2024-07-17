@@ -1,8 +1,8 @@
 ---
 title: Power of Polyhedrons
 external: false
-date: 2024-07-16
-draft: true
+date: 2024-07-17
+draft: false
 tags: 
 - misc
 - worldbuilding
