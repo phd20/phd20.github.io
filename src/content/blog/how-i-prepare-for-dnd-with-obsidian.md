@@ -1,7 +1,7 @@
 ---
 published: true
 external: false
-date: 2022-09-07
+date: 2024-09-14
 ogImagePath: /images/obsidian-dnd.png
 ogImageAltText: Obsidian & D&D
 title: "How I Prepare for D&D with Obsidian"
@@ -14,52 +14,54 @@ after-content: footer-subscribe.html
 permalink: how-i-prepare-for-dnd-with-obsidian
 ---
 
-When it's time to plan my next Dungeons & Dragons session, I fire up Obsidian. But then what? Here's a behind-the-screen look at how I prepare for D&D using Obsidian and the steps from SlyFlourish's *Return of the Lazy Dungeon Master*.
+When it's time to plan my next Dungeons & Dragons session, I fire up [Obsidian](/blog/getting-started-with-obsidian-dnd). But then what? Here's a behind-the-screen look at how I prepare for D&D using Obsidian and the steps from SlyFlourish's *Return of the Lazy Dungeon Master*.
 
-![A screenshot of my Obsidian vault with a session note open showing Resources, Review Player Characters, Story, Strong Start.](/images/obsidian-prep-notes.png)
+![A screenshot of my Obsidian vault with a session note open showing various steps from Return of the Lazy Dungeon Master.](/images/obsidian-prep-notes.jpg)
 
-## Resources
+# Prep
 
-This section is broken down into three subsections.
+## Recap
 
-### Primary To-Do List
+Writing a short, snappy recap of the previous session is vital for transitioning into a gaming mindset for the entire table. Here's your chance to clarify what might be murky for players and emphasize important bits. I keep it short (3-5 sentences at most) and entertaining. If you're familiar with "Last time on Dragonball Z!" then you've got an idea of what I'm going for here.
 
-This section expands to reveal the steps from Return of the Lazy Dungeon Master as a task list. That list lives on another note so what you see here is a linked preview. I use this as a starting point each time I prepare a session.
+## Steps of the Lazy DM
 
-![The todo box is expanded to reveal a checklist of steps of the Lazy Dungeon Master.](/images/obsidian-todo-list.png)
+The rest of my prep is mostly centered around the eight steps from the *Return of the Lazy Dungeon Master*. I'll be focusing on how I use Obsidian *with* the steps but if you're interested the steps themselves, check out [SlyFlourish](https://www.slyflourish.com) for more.
 
-### Secondary To-Do List
+## Hidden Reminders
 
-This is a blank slate. I add extra tasks to this list as I need to. Common tasks include finding a map, researching rules on something specific, or messaging a player about something.
+Each step is configured to include a reminders and advice for that step. I have them as a linked previews from another note so as not to duplicate the same content for every single session. I also keep them as Obsidian comments so that I can see them when editing a file but in Reading Mode, which I use during the game, the notes aren't bogged down by them. Thanks to the Lazy GM's Resource Document, you can grab an example vault [here](https://github.com/phd20/obsidian-ttrpg-vault) if you're interested in the format.
 
-### Review Player Characters
+![Editing mode reveals an Obsidian comment section with a linked preview to advice about this particular step of preparation.](/images/obsidian-session-prep-tips.jpg)
 
-For each character, I like to remind myself of a relevant motivation and background. The motivations help me craft a session they want to engage with. The backgrounds help me tie characters to NPCs and locations.
+## Links
 
-## Story
+One of Obsidian's most powerful features is its linking ability. Throughout my preparation, I link to other existing articles whenever possible. For NPCs or locations, I link to their individual notes.
 
-This includes the strong start, situations, secrets & clues, etc. Basically, the rest of the checklist from *Return of the Lazy DM*. I won't dive into those steps in particular. Rather, I'll dive into how I use Obsidian to reinforce those ideas.
+![NPCs section with a link and hover preview to a page for Kippur Folkor.](/images/obsidian-npc-link.jpg)
 
-### Links
+For Magic Items, I like to preview relevant information about them. So I use linked previews. Import the [D&D 5E SRD REmastered](https://github.com/OldManUmby/DND.SRD.Wiki) into your vault to make this easier. But remember to [organize for external resources](/blog/organizing-obsidian-dnd-srd-external-resources).
 
-One of Obsidian's most powerful features is its linking ability. Throughout my preparation, I link to other existing articles whenever possible. For NPCs, I link to their individual notes.
+![A section for magic items with a preview of the Scimitar of Speed note.](/images/obsidian-magic-items.jpg)
 
-![NPCs section with a link to a page for Phaesia Magroth.](/images/obsidian-npc-link.png)
+# Notes
 
-For Magic Items, I like to preview relevant information about them. So I use linked previews. Import the [D&D 5E SRD REmastered](https://github.com/OldManUmby/DND.SRD.Wiki) into your vault to make this easier. 
+I leave a blank section for notes during a session. I try to keep these to short bullet points.
 
-![A section for magic items with a preview of the Scimitar of Speed note.](/images/obsidian-magic-items.png)
+# Review
 
-### Tips
+I have a section at the bottom of my notes that I come back to after a session. 
 
-You can see that each section has an expandable "tip" callout. Those link to another note that captures SlyFlourish's checklist for each step. These tips provide important reminders as I prepare for my session.
+## Summary
 
-![An expanded tip for Fantastic Locations that includes a bullet point checklist of reminders.](/images/obsidian-prep-tip.png)
+The summary is just a quick recap of what actually happened in that session. Again, I focus on short bullet points. 
 
-## After the Session
+## Retrospective
 
-I have a section at the bottom of my notes that I come back to after a session. The summary is just a quick recap of what actually happened in that session. The retrospective is for notes on what went well, what could have gone better, and what I can do about it for future sessions.
+The retrospective is for notes on what went well, what could have gone better, and what I can do about it for future sessions. This session proves *really* valuable and ensures that I'm always striving for small improvements to our games.
 
 ---
 
-Hopefully this quick, behind-the-screen look at my prep note structure gives you ideas or inspiration. You can easily reuse this Obsidian format for any framework. Use whatever works for you. If you're interested in the actual [framework](https://shop.slyflourish.com/collections/the-lazy-dungeon-master-series/products/return-of-the-lazy-dungeon-master) from SlyFlourish, I highly recommend it.
+Hopefully this quick, behind-the-screen look at my prep note structure gives you ideas or inspiration. You can easily reuse this Obsidian format for any framework. Use whatever works for you.
+
+Game on.
