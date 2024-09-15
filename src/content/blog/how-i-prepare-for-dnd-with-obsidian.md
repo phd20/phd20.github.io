@@ -58,7 +58,7 @@ The summary is just a quick recap of what actually happened in that session. Aga
 
 ## Retrospective
 
-The retrospective is for notes on what went well, what could have gone better, and what I can do about it for future sessions. This session proves *really* valuable and ensures that I'm always striving for small improvements to our games.
+The retrospective is for notes on what went well, what could have gone better, and what I can do about it for future sessions. This section proves *really* valuable and ensures that I'm always striving for small improvements to our games.
 
 ---
 
