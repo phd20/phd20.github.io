@@ -258,11 +258,6 @@ a.animated.active:after {
 	color: var(--text-heading);
 }
 
-.paid-callout {
-	text-align: center;
-	margin-top: 0.5rem;
-}
-
 /* ------ SUBSCRIBE FORM STYLES - END ------ */
 
 /* ------ VIDEO STYLES - START ------ */
