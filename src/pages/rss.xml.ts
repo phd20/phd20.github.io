@@ -4,7 +4,7 @@ import sanitizeHtml from 'sanitize-html';
 import MarkdownIt from 'markdown-it';
 const parser = new MarkdownIt();
 
-export async function GET(context) {
+export async function GET(context: { site: any; }) {
   const blog = await getCollection('blog');
   const sortedPosts = blog
     .filter((p) => p.data.draft !== true)
@@ -30,6 +30,7 @@ export async function GET(context) {
           'img',
           'pre',
           'code',
+          'small',
           'span',
           'h1',
           'h2',
