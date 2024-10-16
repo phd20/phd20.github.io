@@ -38,7 +38,7 @@ If your player wants to collaborate on their bio, collaborate! Hash it out on a 
 
 If a player asks to read up on something in your campaign or setting, use the above methods to send it to them. Straight to Discord or a PDF beats slogging through an endless wiki any day.
 
-The best apart about this approach is that you're engaging with the **people** in your game. Campaign and setting information becomes part of a conversation rather than a website.
+The best part about this approach is that you're engaging with the **people** in your game. Campaign and setting information becomes part of a conversation rather than a website.
 
 Whatever your motivations, Obsidian comes with options for sharing vault contents. But the nature of its design offers us the opportunity to reexamine how we share in our games. And that's worth considering.
 
