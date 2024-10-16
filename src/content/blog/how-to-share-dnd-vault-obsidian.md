@@ -3,7 +3,7 @@ title: How to Share Your D&D Vault in Obsidian
 description: Obsidian is outstanding for managing RPG notes. You own your content. But sharing it isn't easy. 
 external: false
 date: 2024-10-16
-draft: true
+draft: false
 tags: 
 - obsidian
 - organization
