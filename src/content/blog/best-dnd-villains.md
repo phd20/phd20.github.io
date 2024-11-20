@@ -3,7 +3,7 @@ title: The Best Villains
 description: A good villain elevates your Dungeons & Dragons game by creating fun opportunities and lasting memories. But designing and deploying good villains isn’t easy.
 external: false
 date: 2024-11-20
-draft: true
+draft: false
 tags: 
 - npcs
 - misc
